@@ -1,7 +1,8 @@
 # Awesome SF Events
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
-Updated: `2026-02-28 05:10:04`.
+
+Updated: `2026-02-28 05:13:47`.
 
 ## Top Picks for March
 
