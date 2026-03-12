@@ -2,134 +2,109 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-03-12 03:33:00`.
+Updated: `2026-03-12 04:05:23`.
 
 ## Top Picks for March
 
-<p>&nbsp;&nbsp;⭐⭐⭐ <strong>AI+ RenAIssance Conference</strong> — <strong><a href="https://luma.com/renaissance26">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sun, Mar 15 at 9:00 AM | San Francisco, California</code></p>
+<p>&nbsp;&nbsp;⭐⭐⭐ <strong>Zero to Agent: Vercel x Deepmind Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/e/zero-to-agent-sf?utm_source=cv-events-featured&utm_medium=cerebralvalley&_bhlid=cdf9bad6862a866103e4385d9f25abab8b9d11c9&tab=guest-list">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, Mar 21 at 2:00 AM | San Francisco, CA</code></p>
 
 <p>&nbsp;&nbsp;⭐⭐ <strong>PyTorch Helion Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/e/helion-hackathon">Sign up -></a></strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, Mar 14 at 2:00 AM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐ <strong>Zero to Agent: Vercel x Deepmind Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/e/zero-to-agent-sf">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, Mar 21 at 2:00 AM | Shack15, San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐ <strong>Compute Poker Tournament</strong> — <strong><a href="https://luma.com/3v01rwcj">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Mar 12 at 6:30 PM | San Francisco, California</code></p>
 
 
 ---
 
-## Week 1 — Mar 11 to Mar 17
+## Week 1 — Mar 9 to Mar 15
 
-1. **Vibe Your SaaS: Startup Pitch Competition + VC/Founder Mixer** — **[Sign up ->](https://luma.com/4k32sjoj)**  
+1. **Arkhai Agent Market Launch Event** — **[Sign up ->](https://luma.com/5czdt2de)**  
+   `Wed, Mar 11 at 9:30 AM | San Francisco, CA`  
+   Focus on agent-driven marketplace protocols and AI/crypto intersection, with CEO presentation.
+
+
+2. **Vibe Your SaaS: Startup Pitch Competition + VC/Founder Mixer** — **[Sign up ->](https://luma.com/4k32sjoj)**  
    `Wed, Mar 11 at 10:30 AM | San Francisco, CA`  
-   High-caliber networking with AI-first founders and top-tier VCs like Ullas Naik and Charles Hudson.
-
-
-2. **AI Agents What's Next for MCP?** — **[Sign up ->](https://luma.com/uz4fr3qk)**  
-   `Wed, Mar 11 at 10:00 AM | Digital Jungle SF, San Francisco, CA`  
-   Features Microsoft's Harald Kirschner demoing VS Code agents and Chetan Conikee unveiling Dex for agent collaboration.
+   High-caliber VCs and founders, focus on AI-first startups, strong networking potential.
 
 
 3. **Own Your Coding Agent: Why Ramp, HubSpot, and Block Built Their Own** — **[Sign up ->](https://luma.com/iapia8ar)**  
    `Wed, Mar 11 at 10:30 AM | San Francisco, CA`  
-   Panel with top AI advisors discussing building and deploying coding agents in production.
+   Panel with top AI advisors and researchers discussing practical application and deployment of coding agents.
 
 
-4. **Bots, Bevs and Devs** — **[Sign up ->](https://luma.com/ja38kyfj)**  
+4. **AI Agents What's Next for MCP?** — **[Sign up ->](https://luma.com/uz4fr3qk)**  
+   `Wed, Mar 11 at 10:00 AM | San Francisco, CA`  
+   Features Microsoft and Dex platform, focusing on agentic AI and collaboration.
+
+
+5. **Bots, Bevs and Devs** — **[Sign up ->](https://luma.com/ja38kyfj)**  
    `Wed, Mar 11 at 11:00 AM | San Francisco, CA`  
-   Showcases robotics and AI demos from industry leaders, with talks on robotics commercialization.
-
-
-5. **AI and the Future of Talent** — **[Sign up ->](https://luma.com/4f3okvkf)**  
-   `Wed, Mar 11 at 11:00 AM | San Francisco, CA`  
-   Fireside chat with CB Insights and Unusual Ventures on AI's impact on talent acquisition.
+   Showcases robotics and AI demos with industry leaders, focusing on embodied AI and commercialization.
 
 
 ---
 
-## Week 2 — Mar 18 to Mar 24
+## Week 2 — Mar 16 to Mar 22
 
-1. **NVIDIA GTC 2026: AI Builders Party** — **[Sign up ->](https://luma.com/975masw4)**  
+1. **Unprompted: An Exclusive GTC Dinner with Modular & LlamaIndex** — **[Sign up ->](https://luma.com/unprompted)**  
    `Mon, Mar 16 at 6:00 PM | San Jose, California`  
-   Post-GTC networking with AI, robotics, and gaming builders, featuring robot demos and industry leaders.
+   Exclusive dinner with technical leaders and founders focused on AI infrastructure and research.
 
 
-2. **Unprompted: An Exclusive GTC Dinner with Modular & LlamaIndex** — **[Sign up ->](https://luma.com/unprompted)**  
+2. **NVIDIA GTC 2026 Happy Hour: AI Builders Party** — **[Sign up ->](https://luma.com/975masw4)**  
    `Mon, Mar 16 at 6:00 PM | San Jose, California`  
-   Exclusive dinner with technical leaders and founders discussing AI infrastructure and agents.
+   Networking event for AI, robotics, and gaming professionals during GTC, with robot demos.
 
 
-3. **Secure AI Factory: GTC Happy Hours for AI Executives** — **[Sign up ->](https://luma.com/nwzas2ir)**  
+3. **Secure AI Factory: GTC Happy Hours for AI Executives with Massed Compute, Gruve AI, EOS, Rapt AI, & MaxLinear** — **[Sign up ->](https://luma.com/nwzas2ir)**  
    `Mon, Mar 16 at 4:30 PM | San Jose, California`  
-   AI leaders and infrastructure experts discussing secure AI deployment and GPU optimization.
+   Focus on secure AI deployment and GPU optimization strategies with AI leaders and infrastructure experts.
 
 
-4. **Cafe Compute: Cerebras at GTC** — **[Sign up ->](https://luma.com/cccerebrasgtc26)**  
-   `Mon, Mar 16 at 6:00 PM | San Jose, California`  
-   Showcases Cerebras Wafer-Scale Engine (WSE-3) and unveils the open-source GLM 4.7 model.
-
-
-5. **AI+ RenAIssance Conference** — **[Sign up ->](https://luma.com/renaissance26)**  
-   `Sun, Mar 15 at 9:00 AM | San Francisco, California`  
-   Gathering of AI pioneers, startups, and professionals discussing AI breakthroughs.
+4. **Bay Area DSPy Meetup** — **[Sign up ->](https://luma.com/je6ewmkx)**  
+   `Wed, Mar 18 at 5:30 PM | San Francisco, California`  
+   Focus on DSPy, a framework for building LLM applications, attracting relevant developers.
 
 
 ---
 
-## Week 3 — Mar 25 to Mar 31
+## Week 3 — Mar 23 to Mar 29
 
-1. **Security Founders' Oasis at RSA 2026** — **[Sign up ->](https://luma.com/w10psfmj)**  
-   `Tue, Mar 24 at 5:30 PM | San Francisco, California`  
-   Networking event for security founders during RSA Conference.
-
-
-2. **RSAC: PromptedLive Art in the Age of AI** — **[Sign up ->](https://luma.com/rtalmvpz)**  
-   `Tue, Mar 24 at 6:00 PM | San Francisco, California`  
-   Explores live art creation using AI during RSA Conference.
-
-
-3. **AI Healthcare Conference at Stanford** — **[Sign up ->](https://luma.com/amtdrrn1)**  
+1. **AI Healthcare Conference at Stanford** — **[Sign up ->](https://luma.com/amtdrrn1)**  
    `Thu, Mar 26 at 7:00 AM | Stanford, California`  
-   Convenes leaders in technology, medicine, and policy to discuss responsible AI in healthcare.
+   Focus on AI in healthcare, bringing together experts in technology, medicine, and policy.
 
 
-4. **Hardware Pitch Night** — **[Sign up ->](https://luma.com/rwkecwxb)**  
-   `Thu, Mar 26 at 5:30 PM | San Francisco, California`  
-   Showcases hardware startups pitching to investors.
+2. **Security Founders' Oasis at RSA 2026** — **[Sign up ->](https://luma.com/w10psfmj)**  
+   `Tue, Mar 24 at 5:30 PM | San Francisco, California`  
+   Exclusive event for security founders during RSA conference, high-level networking.
 
 
-5. **Nothing but [inter]net** — **[Sign up ->](https://luma.com/everythinginternet)**  
-   `Fri, Mar 27 at 3:00 PM | San Francisco, California`  
-   Networking event focused on the internet and its future.
+3. **RSAC: PromptedLive Art in the Age of AI** — **[Sign up ->](https://luma.com/rtalmvpz)**  
+   `Tue, Mar 24 at 6:00 PM | San Francisco, California`  
+   Explores AI's impact on art and creativity during RSA, blending tech and culture.
+
+
+4. **Cultivating audacity with Courtney Hohne** — **[Sign up ->](https://luma.com/mdr8c7f3)**  
+   `Wed, Mar 25 at 5:30 PM | San Francisco, California`  
+   Focus on leadership and innovation in AI, with a respected figure in the field.
 
 
 ---
 
-## Week 4 — Mar 11 to Mar 17
+## Week 4 — Mar 30 to Apr 5
 
-1. **PyTorch Helion Hackathon** — **[Sign up ->](https://cerebralvalley.ai/e/helion-hackathon)**  
-   `Sat, Mar 14 at 2:00 AM | San Francisco, CA`  
-   Focuses on cutting-edge GPU kernel development with Helion and NVIDIA's CompileIQ, offering expert mentorship and workshops.
-
-
-2. **Hackathon | Funding the Commons SF: Intelligence at the Frontier** — **[Sign up ->](https://luma.com/ftchack-sf-2026)**  
-   `Sat, Mar 14 at 9:00 AM | San Francisco, CA`  
-   Gathers skilled builders to develop AI prototypes in physical AI, agentic funding, AI safety, and sovereign infrastructure.
+1. **-1 to Replit with Amjad & Haya** — **[Sign up ->](https://luma.com/minusonereplit)**  
+   `Tue, Mar 31 at 3:30 PM | San Francisco, California`  
+   Talk with founders of Replit, a highly relevant platform for developers, offering insights into startup growth.
 
 
-3. **Worlds in Action Hack** — **[Sign up ->](https://luma.com/worldsinaction-sf26)**  
-   `Fri, Mar 13 at 5:00 PM | San Francisco, California`  
-   Explores world models (AI that predicts physical interactions in 3D) with XR/game developers and engineers.
-
-
-4. **AI Builders Play Pickleball (Browserbase x DigitalOcean)** — **[Sign up ->](https://luma.com/rfe3f44l)**  
-   `Fri, Mar 13 at 5:00 PM | San Francisco, California`  
-   Laid-back networking event with drinks before Nvidia GTC.
-
-
-5. **AI Philosophy Nights: The Post-Productive Human** — **[Sign up ->](https://luma.com/6ujmjf8f)**  
-   `Fri, Mar 13 at 6:30 PM | San Francisco, California`  
-   Deep dive with a philosopher and founder on AI's impact on value, power, and human agency.
+2. **afore portfolio spring showcase** — **[Sign up ->](https://luma.com/chbjbitq)**  
+   `Tue, Mar 31 at 5:00 PM | San Francisco, California`  
+   Showcase of promising startups from a VC firm, good for networking and identifying emerging trends.
 
 
 ---
