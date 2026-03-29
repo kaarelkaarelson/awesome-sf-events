@@ -2,134 +2,134 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-03-22 17:19:40`.
+Updated: `2026-03-29 17:24:00`.
 
 ## Top Picks for March
 
-<p>&nbsp;&nbsp;⭐⭐⭐ <strong>Cyber Startup Expo 2026</strong> — <strong><a href="https://luma.com/CyberStartupExpo">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Mon, Mar 23 at 8:00 AM | San Francisco, California</code></p>
+<p>&nbsp;&nbsp;⭐⭐⭐ <strong>HackwithBay 2.0</strong> — <strong><a href="https://luma.com/2n8vk5s3?utm_source=cv-events&utm_medium=cerebralvalley">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Mon, Mar 30 at 9:00 AM | San Francisco, California</code></p>
 
-<p>&nbsp;&nbsp;⭐⭐ <strong>AI Cybersecurity Startup Pitch to CISOs</strong> — <strong><a href="https://luma.com/ciso.rsa.pitch">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Mon, Mar 23 at 9:00 AM | San Francisco, California</code></p>
+<p>&nbsp;&nbsp;⭐⭐ <strong>Spring 2026 Ai Forum: Talks + AI Agent Workshops, Ft Stanford &amp; OpenClaw</strong> — <strong><a href="https://luma.com/march-ai-forum?utm_source=cv-events&utm_medium=cerebralvalley">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, Mar 31 at 9:30 AM | Menlo Park, California</code></p>
 
-<p>&nbsp;&nbsp;⭐ <strong>AI+Science: Accelerating Discovery</strong> — <strong><a href="https://hai.stanford.edu/events/ai-science-accelerating-discovery">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, May 5 at 1:30 AM | Stanford, CA</code></p>
-
-
----
-
-## Week 1 — Mar 23 to Mar 29
-
-1. **Cyber Startup Expo 2026** — **[Sign up ->](https://luma.com/CyberStartupExpo)**  
-   `Mon, Mar 23 at 8:00 AM | San Francisco, California`  
-   Massive networking opportunity with 479+ attendees during RSAC.
-
-
-2. **AI Cybersecurity Startup Pitch to CISOs** — **[Sign up ->](https://luma.com/ciso.rsa.pitch)**  
-   `Mon, Mar 23 at 9:00 AM | San Francisco, California`  
-   High-signal access to CISOs and founders.
-
-
-3. **AI Breakfast by Founders Bay You.com during RSA Week** — **[Sign up ->](https://luma.com/eytplye8)**  
-   `Mon, Mar 23 at 9:30 AM | San Francisco, California`  
-   Founders Bay community is excellent for meeting ambitious operators.
-
-
-4. **AI Demo Showcase and AI Builders** — **[Sign up ->](https://luma.com/angellaunchmarch23ai)**  
-   `Mon, Mar 23 at 12:00 PM | San Francisco, California`  
-   Strong builder-focused event with 279+ guests.
-
-
-5. **Bay Area Iceberg Meetup: RSA Edition** — **[Sign up ->](https://luma.com/rsa-iceberg)**  
-   `Tue, Mar 24 at 4:45 PM | San Francisco, California`  
-   Large technical community meetup with 305+ attendees.
+<p>&nbsp;&nbsp;⭐ <strong>AI Startup Pitch Night with Qlay, Startup Intros, and Wan</strong> — <strong><a href="https://luma.com/urwrbbd9?utm_source=cv-events&utm_medium=cerebralvalley">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Mon, Mar 30 at 5:00 PM | San Francisco, California</code></p>
 
 
 ---
 
-## Week 2 — Mar 30 to Apr 5
+## Week 1 — Mar 30 to Apr 5
 
-1. **afore portfolio spring showcase** — **[Sign up ->](https://luma.com/chbjbitq)**  
-   `Tue, Mar 31 at 5:00 PM | San Francisco, California`  
-   High-quality portfolio showcase from a top VC firm.
-
-
-2. **SF GrabChai: Remake the Web** — **[Sign up ->](https://luma.com/7p48ytch)**  
-   `Tue, Mar 31 at 5:00 PM | San Francisco, California`  
-   Product-focused community event for networking.
+1. **HackwithBay 2.0** — **[Sign up ->](https://luma.com/2n8vk5s3?utm_source=cv-events&utm_medium=cerebralvalley)**  
+   `Mon, Mar 30 at 9:00 AM | San Francisco, California`  
+   Intense hackathon with industry mentorship.
 
 
-3. **Women in AI: Bay Area Leaders, Funders, & Operators** — **[Sign up ->](https://luma.com/lfxtxm4q)**  
-   `Tue, Mar 31 at 5:30 PM | San Francisco, California`  
-   Targeted networking for women in the AI leadership space.
+2. **Spring 2026 Ai Forum: Talks + AI Agent Workshops, Ft Stanford & OpenClaw** — **[Sign up ->](https://luma.com/march-ai-forum?utm_source=cv-events&utm_medium=cerebralvalley)**  
+   `Tue, Mar 31 at 9:30 AM | Menlo Park, California`  
+   High-signal forum with Stanford and IBM leaders.
 
 
-4. **South Bay Systems: Consensus & Full Text Search** — **[Sign up ->](https://luma.com/2g3exvjw)**  
-   `Tue, Mar 31 at 6:00 PM | Menlo Park, California`  
-   Technical systems meetup for deep-tech networking.
+3. **AI Startup Pitch Night with Qlay, Startup Intros, and Wan** — **[Sign up ->](https://luma.com/urwrbbd9?utm_source=cv-events&utm_medium=cerebralvalley)**  
+   `Mon, Mar 30 at 5:00 PM | San Francisco, California`  
+   Founders and investors networking.
 
 
-5. **AI Career Fair at Frontier Tower** — **[Sign up ->](https://luma.com/find-your-dream-job-with-chosen-at-fr)**  
-   `Tue, Mar 31 at 6:00 PM | San Francisco, CA`  
-   Good for career-focused networking with 52+ attendees.
+4. **Equity-Free Accelerators as a GTM Strategy** — **[Sign up ->](https://luma.com/moxcqnwj?utm_source=cv-events&utm_medium=cerebralvalley)**  
+   `Mon, Mar 30 at 6:00 PM | San Francisco, California`  
+   Strategic insights from a 3x founder on GTM.
+
+
+5. **Vector Hackathon for Working Professionals** — **[Sign up ->](https://luma.com/nq03dph6?utm_source=cv-events&utm_medium=cerebralvalley)**  
+   `Mon, Mar 30 at 5:00 PM | San Francisco, California`  
+   Fast-paced hackathon for professionals.
 
 
 ---
 
-## Week 3 — Apr 6 to Apr 12
+## Week 2 — Apr 6 to Apr 12
 
 1. **AI After Hours - Let's keep HumanX going** — **[Sign up ->](https://luma.com/humanxafterhours)**  
    `Wed, Apr 8 at 4:00 PM | San Francisco, California`  
-   Major networking event with 131+ attendees at SFMOMA.
+   High-profile networking with major tech players.
 
 
-2. **Junto Founder Dinner (Series A+)** — **[Sign up ->](https://luma.com/juntodinnerapr8)**  
-   `Wed, Apr 8 at 6:00 PM | San Francisco, California`  
-   Exclusive dinner for high-level founders.
-
-
-3. **TypeScript AI Demo Day** — **[Sign up ->](https://luma.com/tsai)**  
+2. **TypeScript AI Demo Day** — **[Sign up ->](https://luma.com/tsai)**  
    `Thu, Apr 9 at 8:30 AM | San Francisco, California`  
-   Large-scale developer demo day with 1200+ attendees.
+   Large-scale demo day for TypeScript AI builders.
 
 
-4. **Death by Deployment: A Builder Dinner** — **[Sign up ->](https://luma.com/lg5o0vvh)**  
+3. **AI Demo Night** — **[Sign up ->](https://luma.com/jyzlu78v)**  
    `Thu, Apr 9 at 5:30 PM | San Francisco, California`  
-   Builder-focused dinner with a unique mystery experience.
+   Strong community event for AI builders.
 
 
-5. **AI Demo Night** — **[Sign up ->](https://luma.com/jyzlu78v)**  
-   `Thu, Apr 9 at 5:30 PM | San Francisco, California`  
-   Technical demo night with 158+ attendees.
+4. **AI After Hours - Encord** — **[Sign up ->](https://luma.com/ng7zds5y)**  
+   `Tue, Apr 7 at 6:00 PM | San Francisco, California`  
+   Focused networking for AI professionals.
+
+
+5. **AI Happy Hour @ SPIN SF | Render x Exa x Greptile** — **[Sign up ->](https://luma.com/ym0od90s)**  
+   `Tue, Apr 7 at 6:00 PM | San Francisco, California`  
+   Casual but high-signal networking.
 
 
 ---
 
-## Week 4 — Apr 13 to Apr 19
+## Week 3 — Apr 13 to Apr 19
 
-1. **AI+Science: Accelerating Discovery** — **[Sign up ->](https://hai.stanford.edu/events/ai-science-accelerating-discovery)**  
-   `Tue, May 5 at 1:30 AM | Stanford, CA`  
-   Premier interdisciplinary conference at Stanford.
+1. **Data Engineering Open Forum 2026** — **[Sign up ->](https://luma.com/deof2026)**  
+   `Thu, Apr 16 at 8:30 AM | San Francisco, California`  
+   Premier conference for data engineering practitioners.
 
 
-2. **Slides Down: AI Founders Party** — **[Sign up ->](https://luma.com/jzopt9nv)**  
+2. **$100K AI Startup Pitch-Off @ Chargebee Beelieve '26** — **[Sign up ->](https://luma.com/beelieve)**  
    `Thu, Apr 16 at 5:00 PM | San Francisco, California`  
-   Founder-focused party with DigitalOcean and Zendesk.
+   High-stakes pitch competition with significant funding.
 
 
-3. **SF Climate Week 2026 Official Welcome Day** — **[Sign up ->](https://luma.com/9d11aca8)**  
+3. **Sidebar Spark: One-Day Summit for Senior Leaders & Executives** — **[Sign up ->](https://luma.com/h3jqeno7)**  
+   `Fri, Apr 17 at 8:30 AM | San Mateo, California`  
+   Exclusive summit for senior leadership networking.
+
+
+4. **SREday San Francisco 2026 Q2** — **[Sign up ->](https://luma.com/sreday-san-francisco-2026-Q2)**  
+   `Fri, Apr 17 at 9:00 AM | San Francisco, California`  
+   Technical conference for SRE and DevOps.
+
+
+5. **SF Climate Week 2026 Official Welcome Day** — **[Sign up ->](https://luma.com/9d11aca8)**  
    `Sat, Apr 18 at 12:00 PM | San Francisco, California`  
-   Large-scale event with 339+ attendees, great for climate-tech networking.
+   Major community event for climate tech.
 
 
-4. **Term Sheets Demystified** — **[Sign up ->](https://luma.com/p7qvy4cd)**  
-   `Thu, Apr 16 at 5:00 PM | Palo Alto, California`  
-   Educational and networking event for founders.
+---
+
+## Week 4 — Apr 20 to Apr 26
+
+1. **SF Climate Week 2026: Founders, Investors & LP Happy Hour** — **[Sign up ->](https://luma.com/73nmv1rh)**  
+   `Mon, Apr 20 at 6:00 PM | San Francisco, California`  
+   High-level networking for climate tech founders.
 
 
-5. **OpenAI Hardware x IEEE** — **[Sign up ->](https://luma.com/0whewbgx)**  
-   `Wed, Apr 15 at 5:00 PM | Stanford, California`  
-   High-signal networking for hardware and AI enthusiasts.
+2. **UNLOCK 2026 - AI Science: Cutting Through the Hype** — **[Sign up ->](https://luma.com/unlock2026)**  
+   `Wed, Apr 22 at 9:00 AM | San Francisco, California`  
+   Deep dive into AI science and research.
+
+
+3. **AI Snack Club Member Meetup - San Francisco** — **[Sign up ->](https://luma.com/hv7fbqsg)**  
+   `Thu, Apr 23 at 5:00 PM | San Francisco, California`  
+   Community-focused meetup for AI enthusiasts.
+
+
+4. **The Medicinal History of Cocktails and Spirits** — **[Sign up ->](https://luma.com/lyqcgdpk)**  
+   `Thu, Apr 23 at 7:00 PM | San Francisco, California`  
+   Social event for networking in a relaxed setting.
+
+
+5. **SF Women in Tech Meetup: Design & Dine** — **[Sign up ->](https://luma.com/6nfwwfew)**  
+   `Tue, Apr 21 at 5:30 PM | San Francisco, California`  
+   Networking for women in the tech industry.
 
 
 ---
