@@ -2,134 +2,134 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-04-12 17:33:05`.
+Updated: `2026-04-15 18:04:27`.
 
 ## Top Picks for March
 
-<p>&nbsp;&nbsp;⭐⭐⭐ <strong>JetBrains x OpenAI Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/events/~/e/jetbrains-x-openai-hack">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, Apr 18 at 2:00 AM | San Francisco, CA</code></p>
-
-<p>&nbsp;&nbsp;⭐⭐ <strong>Designing Trust for Agentic Economy</strong> — <strong><a href="https://luma.com/5fmt3zei?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Mon, Apr 20 at 10:00 AM | Shack15, San Francisco, CA</code></p>
-
-<p>&nbsp;&nbsp;⭐ <strong>AI+Science: Accelerating Discovery</strong> — <strong><a href="https://hai.stanford.edu/events/ai-science-accelerating-discovery">Sign up -></a></strong><br>
+<p>&nbsp;&nbsp;⭐⭐⭐ <strong>AI+Science: Accelerating Discovery</strong> — <strong><a href="https://hai.stanford.edu/events/ai-science-accelerating-discovery">Sign up -></a></strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, May 5 at 1:30 AM | Stanford, CA</code></p>
 
+<p>&nbsp;&nbsp;⭐⭐ <strong>Build YC&#x27;s Next Unicorn - Agent Hack Day</strong> — <strong><a href="https://luma.com/build-ycs-next-unicorn-apr29-2026">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Apr 29 at 9:30 AM | San Francisco, California</code></p>
 
----
-
-## Week 1 — Apr 13 to Apr 19
-
-1. **JetBrains x OpenAI Hackathon** — **[Sign up ->](https://cerebralvalley.ai/events/~/e/jetbrains-x-openai-hack)**  
-   `Sat, Apr 18 at 2:00 AM | San Francisco, CA`  
-   Top-tier hackathon with direct access to OpenAI engineers.
-
-
-2. **Brew & Backprop** — **[Sign up ->](https://luma.com/iqv9vakw)**  
-   `Mon, Apr 13 at 11:00 AM | San Francisco, California`  
-   Focused co-working and unfiltered discussion on Gemini with the DeepMind team.
-
-
-3. **Marketing Agents Hackathon** — **[Sign up ->](https://luma.com/dqvdp45m)**  
-   `Sat, Apr 18 at 9:00 AM | San Francisco, California`  
-   Highly relevant topic for tech builders; strong community turnout expected.
-
-
-4. **Agentic Retrieval SF Meetup** — **[Sign up ->](https://luma.com/i2bjdpwx)**  
-   `Tue, Apr 14 at 5:00 PM | San Francisco, California`  
-   Niche, high-signal technical meetup for agent builders.
-
-
-5. **Ashesh Rambachan | From Next-Token Prediction to Automatic Induction of Automata** — **[Sign up ->](https://hai.stanford.edu/events/ashesh-rambachan-from-next-token-prediction-to-automatic-induction-of-automata)**  
-   `Mon, Apr 13 at 5:00 AM | Stanford, CA`  
-   Academic seminar on generative sequence models with high-quality attendees.
+<p>&nbsp;&nbsp;⭐ <strong>DevGuild: Write-Only Code Summit</strong> — <strong><a href="https://luma.com/write-only-code-summit">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, May 7 at 9:30 AM | San Francisco, California</code></p>
 
 
 ---
 
-## Week 2 — Apr 20 to Apr 26
+## Week 1 — Apr 20 to Apr 26
 
-1. **Designing Trust for Agentic Economy** — **[Sign up ->](https://luma.com/5fmt3zei?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Mon, Apr 20 at 10:00 AM | Shack15, San Francisco, CA`  
-   High-level networking with AI/fintech leaders.
-
-
-2. **Matt Beane | Precision Proactivity: Measuring Cognitive Load in Real-World AI-Assisted Work** — **[Sign up ->](https://hai.stanford.edu/events/matt-beane-precision-proactivity-measuring-cognitive-load-in-real-world-ai-assisted-work)**  
+1. **Matt Beane | Precision Proactivity: Measuring Cognitive Load in Real-World AI-Assisted Work** — **[Sign up ->](https://hai.stanford.edu/events/matt-beane-precision-proactivity-measuring-cognitive-load-in-real-world-ai-assisted-work)**  
    `Mon, Apr 20 at 5:00 AM | Stanford, CA`  
-   Relevant research on AI-assisted work productivity.
+   Academic seminar on AI-assisted work performance, highly relevant for tech professionals interested in human-AI interaction.
 
 
-3. **AI Agents SF #12 AI Memory** — **[Sign up ->](https://luma.com/mwrf3vir)**  
-   `Mon, Apr 20 at 5:00 PM | San Francisco, California`  
-   Consistent high-signal meetup for agent builders.
-
-
-4. **How Can AI Support Language Digitization and Digital Inclusion?** — **[Sign up ->](https://hai.stanford.edu/events/thomas-mullaney-diyi-yang-how-can-ai-support-language-digitalization-and-digital-inclusion)**  
-   `Wed, Apr 15 at 5:00 AM | Stanford, CA`  
-   Thoughtful seminar on AI ethics and inclusion.
-
-
-5. **SF Climate Week: Founders, Investors & LP Happy Hour** — **[Sign up ->](https://luma.com/73nmv1rh)**  
+2. **SF Climate Week 2026: Founders, Investors & LP Happy Hour** — **[Sign up ->](https://luma.com/73nmv1rh)**  
    `Mon, Apr 20 at 6:00 PM | San Francisco, California`  
-   Large networking event with high-quality investor presence.
+   Excellent networking opportunity with a high concentration of climate-tech founders and investors.
+
+
+3. **Beyond the Hype: A Critical Climate Lens On AI** — **[Sign up ->](https://luma.com/jmfw42fo)**  
+   `Tue, Apr 21 at 6:00 PM | San Francisco, California`  
+   Thoughtful discussion on the intersection of AI and climate, attracting a high-quality, mission-driven crowd.
+
+
+4. **Live From the Future! A Deep Tech Investor Expo** — **[Sign up ->](https://luma.com/2rrxqv4e)**  
+   `Wed, Apr 22 at 10:00 AM | San Francisco, California`  
+   Showcase of deep tech startups, great for meeting founders and investors in the hardware/deep tech space.
+
+
+5. **Minerals on the Rocks: Sustainability in Mining + Happy Hour** — **[Sign up ->](https://luma.com/mmwppfgy)**  
+   `Thu, Apr 23 at 3:00 PM | San Francisco, California`  
+   Niche, high-signal event focused on critical supply chains for tech, attracting industry experts.
 
 
 ---
 
-## Week 3 — Apr 27 to May 3
+## Week 2 — Apr 27 to May 3
 
 1. **Build YC's Next Unicorn - Agent Hack Day** — **[Sign up ->](https://luma.com/build-ycs-next-unicorn-apr29-2026)**  
    `Wed, Apr 29 at 9:30 AM | San Francisco, California`  
-   High-intensity hackathon with strong builder community.
+   High-energy hackathon focused on agentic engineering, attracting ambitious builders and potential co-founders.
 
 
-2. **Agents & APIs SF Developer Meetup** — **[Sign up ->](https://luma.com/agents-AI-apis-april)**  
+2. **All Things Sync** — **[Sign up ->](https://luma.com/lu6m402p)**  
+   `Wed, Apr 29 at 5:30 PM | San Francisco, California`  
+   Large developer meetup with a strong focus on web and sync technologies, great for networking with engineers.
+
+
+3. **Fintech x AI Pitch Competition | Stripe Sessions Afterparty** — **[Sign up ->](https://luma.com/j4kfhu9p)**  
+   `Wed, Apr 29 at 5:30 PM | San Francisco, California`  
+   High-signal event following a major industry conference, attracting fintech founders and investors.
+
+
+4. **Agents & APIs SF Developer Meetup** — **[Sign up ->](https://luma.com/agents-AI-apis-april)**  
    `Thu, Apr 30 at 5:30 PM | San Francisco, California`  
-   Practical developer-focused meetup.
+   Technical meetup focused on agentic workflows and APIs, attracting a high-quality developer audience.
 
 
-3. **SF Game Development Annual BBQ** — **[Sign up ->](https://luma.com/ggp-bbq-sf-game-dev)**  
+5. **SF Game Development Annual BBQ** — **[Sign up ->](https://luma.com/ggp-bbq-sf-game-dev)**  
    `Sun, May 3 at 1:00 PM | San Francisco, California`  
-   Strong social community event for game developers.
-
-
-4. **Unicorner Presents: SF Seed+ Founders Dinner** — **[Sign up ->](https://luma.com/8v52b44d)**  
-   `Thu, Apr 30 at 6:00 PM | San Francisco, California`  
-   Curated dinner for early-stage founders.
-
-
-5. **How to Generate Hope Within Yourself** — **[Sign up ->](https://luma.com/4wf0yzmf)**  
-   `Tue, Apr 28 at 7:00 PM | San Francisco, California`  
-   Interesting intellectual salon event.
+   Social event for the game dev community, great for meeting creative and technical people in a relaxed setting.
 
 
 ---
 
-## Week 4 — May 4 to May 10
+## Week 3 — May 4 to May 10
 
 1. **AI+Science: Accelerating Discovery** — **[Sign up ->](https://hai.stanford.edu/events/ai-science-accelerating-discovery)**  
    `Tue, May 5 at 1:30 AM | Stanford, CA`  
-   Major interdisciplinary conference.
+   Interdisciplinary conference on AI in science, attracting top-tier researchers and innovators.
 
 
 2. **DevGuild: Write-Only Code Summit** — **[Sign up ->](https://luma.com/write-only-code-summit)**  
    `Thu, May 7 at 9:30 AM | San Francisco, California`  
-   High-quality developer summit.
+   Technical summit for developer-focused founders and operators.
 
 
-3. **Nozomio Hackathon** — **[Sign up ->](https://luma.com/rshibq6i)**  
+3. **Agentic + AI Coding Night SF** — **[Sign up ->](https://luma.com/agenticaiobsnightsf-5-7)**  
+   `Thu, May 7 at 3:30 PM | San Francisco, California`  
+   Practical meetup for AI engineers focusing on agentic systems and observability.
+
+
+4. **Nozomio Hackathon** — **[Sign up ->](https://luma.com/rshibq6i)**  
    `Sat, May 9 at 8:00 AM | San Francisco, California`  
-   Hackathon for AI builders.
+   Hackathon for AI builders, great for networking and hands-on collaboration.
 
 
-4. **AMD Developer Hackathon** — **[Sign up ->](https://luma.com/afz0aeq8)**  
+5. **AMD Developer Hackathon** — **[Sign up ->](https://luma.com/afz0aeq8)**  
    `Sat, May 9 at 10:00 AM | San Francisco, California`  
-   Hardware-focused hackathon.
+   Hardware-focused hackathon, attracting technical talent interested in high-performance computing.
 
 
-5. **UC LAUNCH STARTUP ACCELERATOR DEMO DAY** — **[Sign up ->](https://luma.com/UCLaunch_Demo_Day)**  
-   `Wed, May 6 at 10:00 AM | Berkeley, California`  
-   Demo day for university-backed startups.
+---
+
+## Week 4 — May 11 to May 17
+
+1. **Wolfgang Lehrach | Code World Models for General Game Playing** — **[Sign up ->](https://hai.stanford.edu/events/wolfgang-lehrach-code-world-models-for-general-game-playing)**  
+   `Wed, May 13 at 5:00 AM | Stanford, CA`  
+   Advanced seminar on AI and game playing, highly relevant for those interested in the frontier of AI research.
+
+
+2. **Inside the 2026 AI Index Report | Stanford HAI** — **[Sign up ->](https://hai.stanford.edu/events/inside-the-2026-ai-index-report)**  
+   `Wed, May 20 at 5:00 AM | Stanford, CA`  
+   Essential overview of the state of AI, attracting industry leaders and researchers.
+
+
+3. **Eyck Freymann | AI and Strategic Stability** — **[Sign up ->](https://hai.stanford.edu/events/eyck-freymann-ai-and-strategic-stability)**  
+   `Wed, May 27 at 5:00 AM | Stanford, CA`  
+   Seminar on the geopolitical implications of AI, attracting a sophisticated audience interested in policy and security.
+
+
+4. **Juan Sebastian Gomez-Canon | Human-Centered Music Emotion Recognition** — **[Sign up ->](https://hai.stanford.edu/events/juan-sebastian-gomez-canon-challenges-and-opportunities-for-human-centered-music-emotion-recognition)**  
+   `Wed, Jun 3 at 5:00 AM | Stanford, CA`  
+   Niche seminar on AI and human emotion, interesting for those exploring the intersection of AI and arts.
+
+
+5. **2026 RAISE Health Symposium** — **[Sign up ->](https://med.stanford.edu/raisehealth/events/healthaiweek/2026symposium.html)**  
+   `Tue, Jun 2 at 2:00 AM | Stanford, CA`  
+   Symposium on AI in health, attracting a mix of tech and medical professionals.
 
 
 ---
