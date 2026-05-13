@@ -2,134 +2,134 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-05-10 17:50:47`.
+Updated: `2026-05-13 18:58:32`.
 
 ## Top Picks for March
 
-<p>&nbsp;&nbsp;⭐⭐⭐ <strong>AI Council</strong> — <strong><a href="https://aicouncil.com/sf-2026?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, May 12 at 1:00 AM | Marriott Marquis, San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐⭐⭐ <strong>Google I/O Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/events/~/e/google-io-hackathon?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, May 23 at 9:00 AM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐⭐ <strong>Arize Observe: The AI Agent Evals Conference</strong> — <strong><a href="https://arize.com/observe/?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Jun 4 at 2:00 AM | Shack15, San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐⭐ <strong>Vector Space Day</strong> — <strong><a href="https://qdrant.tech/vector-space-day-sf-26/?utm_campaign=vsd-cerebalvalley&utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Jun 11 at 9:00 AM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐ <strong>Vector Space Day</strong> — <strong><a href="https://qdrant.tech/vector-space-day-sf-26/?utm_campaign=vsd-cerebalvalley&utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Jun 11 at 2:00 AM | San Francisco, CA</code></p>
-
-
----
-
-## Week 1 — May 11 to May 17
-
-1. **AI Council** — **[Sign up ->](https://aicouncil.com/sf-2026?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Tue, May 12 at 1:00 AM | Marriott Marquis, San Francisco, CA`  
-   Top-tier technical conference for AI builders.
-
-
-2. **Hospitality 2030: A Rosewood Sand Hill Hackathon** — **[Sign up ->](https://cerebralvalley.ai/events/~/e/rosewood-hospitality-2030?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA)**  
-   `Sat, May 16 at 2:00 AM | Menlo Park, CA`  
-   High-quality hackathon with Anthropic and industry leaders.
-
-
-3. **Notion Developer Platform Hackathon** — **[Sign up ->](https://cerebralvalley.ai/events/~/e/notion-developer-platform-hackathon?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA)**  
-   `Sat, May 16 at 2:00 AM | Notion HQ, San Francisco, CA`  
-   Deep dive into platform development with expert peers.
-
-
-4. **The Future of Fin and the Customer Agent Category** — **[Sign up ->](https://fin.ai/events/customer-agent/register?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Thu, May 14 at 2:00 AM | San Francisco, CA`  
-   Industry-leading vision for customer agents.
-
-
-5. **Human+Tech Week Summit 2026** — **[Sign up ->](https://luma.com/nc47m6jy)**  
-   `Mon, May 11 at 5:00 PM | San Francisco, CA`  
-   Large-scale convening for human-centered AI.
+<p>&nbsp;&nbsp;⭐ <strong>Arize Observe</strong> — <strong><a href="https://arize.com/observe/?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Jun 4 at 9:00 AM | Shack15, San Francisco, CA</code></p>
 
 
 ---
 
-## Week 2 — May 18 to May 24
+## Week 1 — May 18 to May 24
 
 1. **Google I/O Hackathon** — **[Sign up ->](https://cerebralvalley.ai/events/~/e/google-io-hackathon?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA)**  
-   `Sat, May 23 at 2:00 AM | San Francisco, CA`  
-   Hands-on development with Gemini and DeepMind team.
+   `Sat, May 23 at 9:00 AM | San Francisco, CA`  
+   Direct access to DeepMind team and latest Google AI stack.
 
 
-2. **Inside the 2026 AI Index Report** — **[Sign up ->](https://hai.stanford.edu/events/inside-the-2026-ai-index-report)**  
-   `Wed, May 20 at 5:00 AM | Stanford, CA`  
-   Critical data and insights on the state of AI.
+2. **Arvind Narayanan | Adapting to the Transformation of Knowledge Work** — **[Sign up ->](https://hai.stanford.edu/events/arvind-narayanan-adapting-to-the-transformation-of-knowledge-work)**  
+   `Mon, May 18 at 12:00 PM | Stanford, CA`  
+   High-level academic insight into AI's long-term economic impact.
 
 
-3. **Wolfgang Lehrach | Code World Models for General Game Playing** — **[Sign up ->](https://hai.stanford.edu/events/wolfgang-lehrach-code-world-models-for-general-game-playing)**  
-   `Wed, May 13 at 5:00 AM | Stanford, CA`  
-   Advanced seminar on LLMs and game playing.
+3. **From Soil to Scale: AgriTech Founders Panel + Mixer** — **[Sign up ->](https://luma.com/e6fawiqv)**  
+   `Mon, May 18 at 4:30 PM | Berkeley, CA`  
+   Niche founder-focused event with high networking potential.
 
 
-4. **Arvind Narayanan | Adapting to the Transformation of Knowledge Work** — **[Sign up ->](https://hai.stanford.edu/events/arvind-narayanan-adapting-to-the-transformation-of-knowledge-work)**  
-   `Mon, May 18 at 5:00 AM | Stanford, CA`  
-   Expert perspective on AI's impact on cognitive labor.
+4. **How to Build a Community From Zero** — **[Sign up ->](https://luma.com/9jlnbaod)**  
+   `Mon, May 18 at 6:30 PM | San Francisco, CA`  
+   Practical session for founders and community builders.
 
 
-5. **Eyck Freymann | AI and Strategic Stability** — **[Sign up ->](https://hai.stanford.edu/events/eyck-freymann-ai-and-strategic-stability)**  
-   `Wed, May 27 at 5:00 AM | Stanford, CA`  
-   Framework for US-China technology competition.
-
-
----
-
-## Week 3 — May 25 to May 31
-
-1. **2026 RAISE Health Symposium** — **[Sign up ->](https://hai.stanford.edu/events/2026-raise-health-symposium)**  
-   `Tue, Jun 2 at 12:00 AM | Stanford, CA`  
-   Leading voices in tech and medicine for responsible AI.
-
-
-2. **Juan Sebastian Gomez-Canon | Music Emotion Recognition** — **[Sign up ->](https://hai.stanford.edu/events/juan-sebastian-gomez-canon-challenges-and-opportunities-for-human-centered-music-emotion-recognition)**  
-   `Wed, Jun 3 at 5:00 AM | Stanford, CA`  
-   Exploration of human-centered AI in music.
-
-
-3. **General Networking Mixer** — **[Sign up ->](https://partiful.com/e/50ddcHT5S6CIcwceVgcg)**  
-   `Sat, Mar 14 at 10:30 AM | San Francisco, CA`  
-   Opportunity to meet local tech professionals.
-
-
-4. **Tech Community Social** — **[Sign up ->](https://partiful.com/e/50ddcHT5S6CIcwceVgcg)**  
-   `Sat, Mar 14 at 10:30 AM | San Francisco, CA`  
-   Casual networking for tech workers.
-
-
-5. **Local Tech Meetup** — **[Sign up ->](https://partiful.com/e/50ddcHT5S6CIcwceVgcg)**  
-   `Sat, Mar 14 at 10:30 AM | San Francisco, CA`  
-   Community-focused tech gathering.
+5. **WorkOS Applied AI Showcase** — **[Sign up ->](https://luma.com/aai-showcase)**  
+   `Tue, May 19 at 5:30 PM | San Francisco, CA`  
+   Showcase of applied AI tools and infrastructure.
 
 
 ---
 
-## Week 4 — Jun 1 to Jun 7
+## Week 2 — May 25 to May 31
 
-1. **Snowflake Dev Day** — **[Sign up ->](https://www.snowflake.com/en/dev-day/in-person?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Thu, Jun 4 at 2:00 AM | Snowflake, San Francisco, CA`  
-   Hands-on bootcamp for AI/ML engineers.
-
-
-2. **Arize Observe** — **[Sign up ->](https://arize.com/observe/?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Thu, Jun 4 at 2:00 AM | Shack15, San Francisco, CA`  
-   Conference on AI agent evaluation techniques.
+1. **Inside the 2026 AI Index Report** — **[Sign up ->](https://hai.stanford.edu/events/inside-the-2026-ai-index-report)**  
+   `Wed, May 20 at 12:00 PM | Stanford, CA`  
+   Essential data-driven overview of the AI landscape.
 
 
-3. **Tech Networking Mixer** — **[Sign up ->](https://partiful.com/e/50ddcHT5S6CIcwceVgcg)**  
-   `Sat, Mar 14 at 10:30 AM | San Francisco, CA`  
-   Networking for ambitious tech professionals.
+2. **Eyck Freymann | AI and Strategic Stability** — **[Sign up ->](https://hai.stanford.edu/events/eyck-freymann-ai-and-strategic-stability)**  
+   `Wed, May 27 at 12:00 PM | Stanford, CA`  
+   Critical geopolitical perspective on AI competition.
 
 
-4. **Startup Community Social** — **[Sign up ->](https://partiful.com/e/50ddcHT5S6CIcwceVgcg)**  
-   `Sat, Mar 14 at 10:30 AM | San Francisco, CA`  
-   Casual gathering for startup founders.
+3. **HeyGens Infinitely Me pop-up** — **[Sign up ->](https://luma.com/1eilqafb)**  
+   `Wed, May 27 at 11:00 AM | San Francisco, CA`  
+   High-growth startup event with strong community presence.
 
 
-5. **Tech Community Mixer** — **[Sign up ->](https://partiful.com/e/50ddcHT5S6CIcwceVgcg)**  
-   `Sat, Mar 14 at 10:30 AM | San Francisco, CA`  
-   Final week networking event.
+4. **Frontier Residency - Demo Day** — **[Sign up ->](https://luma.com/frontier-residency-demo-day)**  
+   `Thu, May 28 at 4:00 PM | San Francisco, CA`  
+   Showcase of early-stage frontier tech projects.
+
+
+5. **The Future of You Ft. Daniel Kraft, MD** — **[Sign up ->](https://luma.com/thefutureofyou)**  
+   `Thu, May 28 at 5:00 PM | Menlo Park, CA`  
+   Insightful discussion on the future of health and tech.
+
+
+---
+
+## Week 3 — Jun 1 to Jun 7
+
+1. **Arize Observe** — **[Sign up ->](https://arize.com/observe/?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
+   `Thu, Jun 4 at 9:00 AM | Shack15, San Francisco, CA`  
+   Top-tier conference for AI evaluation and benchmarking.
+
+
+2. **Snowflake Dev Day** — **[Sign up ->](https://www.snowflake.com/en/dev-day/in-person?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
+   `Thu, Jun 4 at 9:00 AM | San Francisco, CA`  
+   Hands-on bootcamp for data and AI engineers.
+
+
+3. **2026 RAISE Health Symposium** — **[Sign up ->](https://med.stanford.edu/raisehealth/events/healthaiweek/2026symposium.html)**  
+   `Tue, Jun 2 at 9:00 AM | Stanford, CA`  
+   Leading voices in AI and medicine.
+
+
+4. **Juan Sebastian Gomez-Canon | Music Emotion Recognition** — **[Sign up ->](https://hai.stanford.edu/events/juan-sebastian-gomez-canon-challenges-and-opportunities-for-human-centered-music-emotion-recognition)**  
+   `Wed, Jun 3 at 12:00 PM | Stanford, CA`  
+   Interdisciplinary look at AI and affective experience.
+
+
+5. **Agentic AI Hackathon - SF** — **[Sign up ->](https://luma.com/zemh10km)**  
+   `Fri, Jun 5 at 9:00 AM | San Francisco, California`  
+   Hands-on building with agentic AI systems.
+
+
+---
+
+## Week 4 — Jun 8 to Jun 14
+
+1. **Vector Space Day** — **[Sign up ->](https://qdrant.tech/vector-space-day-sf-26/?utm_campaign=vsd-cerebalvalley&utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
+   `Thu, Jun 11 at 9:00 AM | San Francisco, CA`  
+   Deep dive into next-gen AI retrieval infrastructure.
+
+
+2. **Cafe Cursor San Francisco** — **[Sign up ->](https://luma.com/i0v6a23s)**  
+   `Wed, Jun 10 at 10:00 AM | San Francisco, CA`  
+   Community-driven event for Cursor users.
+
+
+3. **Harness Engineering Hack** — **[Sign up ->](https://luma.com/harnesshack)**  
+   `Fri, Jun 12 at 9:30 AM | San Francisco, CA`  
+   Engineering-focused hackathon.
+
+
+4. **Diamond Diplomacy Screening** — **[Sign up ->](https://luma.com/c5sq3igl)**  
+   `Tue, Jun 9 at 5:00 PM | San Francisco, CA`  
+   Cultural and diplomatic event with director talk.
+
+
+5. **SFVibe Yacht Party** — **[Sign up ->](https://luma.com/sfyachtparty)**  
+   `Fri, Jun 12 at 6:30 PM | San Francisco, CA`  
+   High-signal social networking event.
 
 
 ---
