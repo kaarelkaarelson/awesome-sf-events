@@ -2,7 +2,7 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-06-07 18:01:42`.
+Updated: `2026-06-10 19:33:06`.
 
 ## Top Picks for March
 
@@ -12,124 +12,124 @@ Updated: `2026-06-07 18:01:42`.
 <p>&nbsp;&nbsp;⭐⭐ <strong>RocketRide Launch Night: The AIDE is Leaving the Launchpad @ Shack15</strong> — <strong><a href="https://luma.com/f7klujxs?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Jun 18 at 5:00 PM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐ <strong>Open-Weight Models on Amazon Bedrock with Artificial Analysis, MiniMax, Nvidia and Startups</strong> — <strong><a href="https://luma.com/jf188vvq?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, Jun 9 at 5:00 PM | AWS Builder Loft, San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐ <strong>HUD Frontier / RSI RL Environments Hackathon</strong> — <strong><a href="https://events.ycombinator.com/hud-frontier-june-26?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, Jun 20 at 10:00 AM | Y Combinator, San Francisco, CA</code></p>
 
 
 ---
 
-## Week 1 — Jun 8 to Jun 14
-
-1. **Open-Weight Models on Amazon Bedrock with Artificial Analysis, MiniMax, Nvidia and Startups** — **[Sign up ->](https://luma.com/jf188vvq?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Tue, Jun 9 at 5:00 PM | AWS Builder Loft, San Francisco, CA`  
-   High-level industry panel on production AI with open-source flexibility.
-
-
-2. **Autonomous Healthcare Hackathon | xAI Cursor Vercel | Legion Health x Atlas** — **[Sign up ->](https://luma.com/zru7alb6?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Sat, Jun 13 at 10:00 AM | San Francisco, CA`  
-   High-signal hackathon with top-tier AI lab judges.
-
-
-3. **Design Chat with Joel Lewenstein** — **[Sign up ->](https://luma.com/joel-spc?utm_source=cv-events&utm_medium=cerebralvalley)**  
-   `Mon, Jun 8 at 4:30 PM | San Francisco, California`  
-   Anthropic design lead discussing early-stage innovation.
-
-
-4. **+ AI + Design: How to prompt like a designer** — **[Sign up ->](https://luma.com/717techseries-sfdesignweek-aidesign?utm_source=cv-events&utm_medium=cerebralvalley)**  
-   `Mon, Jun 8 at 5:30 PM | San Francisco, CA`  
-   Hands-on prototyping workshop with award-winning design expertise.
-
-
-5. **Scrappy AI Founders Play Soccer** — **[Sign up ->](https://luma.com/ppab3gxi?utm_source=cv-events&utm_medium=cerebralvalley)**  
-   `Mon, Jun 8 at 6:00 PM | San Francisco, CA`  
-   Excellent networking opportunity with vetted AI founders in a social setting.
-
-
----
-
-## Week 2 — Jun 15 to Jun 21
+## Week 1 — Jun 15 to Jun 21
 
 1. **Render localhost:2026 SF** — **[Sign up ->](https://luma.com/localhost-2026-sf?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
    `Thu, Jun 18 at 9:00 AM | San Francisco, CA`  
-   Premier infrastructure event for AI builders.
+   Top-tier infrastructure event for AI builders.
 
 
 2. **RocketRide Launch Night: The AIDE is Leaving the Launchpad @ Shack15** — **[Sign up ->](https://luma.com/f7klujxs?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
    `Thu, Jun 18 at 5:00 PM | San Francisco, CA`  
-   Curated networking and technical demos for AI production systems.
+   Curated networking for production-focused AI builders.
 
 
-3. **AI for Science Summit in SF** — **[Sign up ->](https://luma.com/7cf0p7u5)**  
-   `Tue, Jun 16 at 9:30 AM | San Francisco, CA`  
-   Interdisciplinary summit on AI's role in scientific discovery.
+3. **HUD Frontier / RSI RL Environments Hackathon** — **[Sign up ->](https://events.ycombinator.com/hud-frontier-june-26?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
+   `Sat, Jun 20 at 10:00 AM | Y Combinator, San Francisco, CA`  
+   High-signal hackathon with DeepMind/Anthropic backing.
 
 
-4. **Agentic Engineering Summit** — **[Sign up ->](https://luma.com/agentsummit)**  
-   `Thu, Jun 18 at 9:30 AM | San Francisco, CA`  
-   Focused summit on agentic engineering workflows.
+4. **Autonomous Healthcare Hackathon** — **[Sign up ->](https://luma.com/zru7alb6?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
+   `Sat, Jun 13 at 9:00 AM | San Francisco, CA`  
+   Specialized hackathon for AI/Healthcare intersection.
 
 
-5. **Inference-Time Compute Hackathon** — **[Sign up ->](https://luma.com/hncudfxb)**  
-   `Fri, Jun 19 at 5:00 PM | San Francisco, CA`  
-   Technical hackathon focused on compute efficiency.
+5. **Beyond the Hype: Where VCs Are Actually Investing in Robotics & Physical AI** — **[Sign up ->](https://luma.com/sv-xowd)**  
+   `Mon, Jun 15 at 9:30 AM | Palo Alto, CA`  
+   Insightful session on physical AI investment trends.
 
 
 ---
 
-## Week 3 — Jun 22 to Jun 28
+## Week 2 — Jun 22 to Jun 28
 
-1. **Creative Intelligence at Config co-hosted by Contra and AI Circle** — **[Sign up ->](https://luma.com/9g923r8m)**  
-   `Mon, Jun 22 at 5:00 PM | San Francisco, CA`  
-   High-signal mixer during Config week.
+1. **Config 2026** — **[Sign up ->](https://luma.com/configevents)**  
+   `Tue, Jun 23 at 12:00 AM | San Francisco, CA`  
+   Major industry conference for design and product builders.
 
 
 2. **Detach 2026 Annual Config After Party** — **[Sign up ->](https://luma.com/usxsrlu1)**  
    `Thu, Jun 25 at 7:00 PM | San Francisco, CA`  
-   Major networking event for the design and tech community.
+   High-energy networking after Config.
 
 
-3. **134th SF Hardware Meetup @ Humanmade** — **[Sign up ->](https://luma.com/7d18zu5c)**  
-   `Thu, Jun 25 at 6:30 PM | San Francisco, CA`  
-   Long-standing community for hardware and electronics builders.
-
-
-4. **Config 2026 Wind-down Picnic** — **[Sign up ->](https://luma.com/azhjlwuv)**  
+3. **Config 2026 Wind-down Picnic** — **[Sign up ->](https://luma.com/azhjlwuv)**  
    `Fri, Jun 26 at 9:00 AM | San Francisco, CA`  
-   Relaxed networking with the design community.
+   Casual networking with design community leaders.
 
 
-5. **Sentry x GLITCHED & GGWP - Women in Game Dev Meetup** — **[Sign up ->](https://luma.com/dqsp2d17)**  
-   `Fri, Jun 26 at 5:30 PM | San Francisco, CA`  
-   Niche community event for women in game development.
+4. **Hops x Props - Config 2026 Edition** — **[Sign up ->](https://luma.com/24nh9egm)**  
+   `Mon, Jun 22 at 4:00 PM | San Francisco, CA`  
+   Pre-conference social event.
+
+
+5. **Designers & Machines June 2026** — **[Sign up ->](https://luma.com/wmy80js8)**  
+   `Mon, Jun 22 at 6:30 PM | San Francisco, CA`  
+   Niche event for designers building with machines.
 
 
 ---
 
-## Week 4 — Jun 29 to Jul 5
+## Week 3 — Jun 29 to Jul 5
 
-1. **SF Devtools Drinkup** — **[Sign up ->](https://luma.com/drinkup-s26)**  
-   `Tue, Jun 30 at 6:00 PM | San Francisco, California`  
-   Large-scale networking event for devtools community.
-
-
-2. **The Agent Open: AI's pickleball tournament** — **[Sign up ->](https://luma.com/the-agent-open)**  
+1. **The Agent Open: AI's pickleball tournament** — **[Sign up ->](https://luma.com/the-agent-open)**  
    `Tue, Jun 30 at 3:00 PM | San Francisco, CA`  
-   Social networking event for AI builders.
+   Unique social/networking event for AI builders.
+
+
+2. **Future Code: Rewriting the Developer Frontier** — **[Sign up ->](https://luma.com/FutureCodeFrontier)**  
+   `Tue, Jun 30 at 5:15 PM | San Francisco, CA`  
+   GitHub-hosted event on the future of dev tools.
 
 
 3. **AI Engineer Worlds Fair Afterparty** — **[Sign up ->](https://luma.com/2avil0ni)**  
    `Wed, Jul 1 at 6:00 PM | San Francisco, CA`  
-   Networking with top infrastructure companies.
+   Networking with top AI engineering teams.
 
 
 4. **Bay Area Frontier Research Club #12** — **[Sign up ->](https://luma.com/w27p8kyq)**  
    `Wed, Jul 1 at 5:30 PM | Menlo Park, CA`  
-   Deep-dive paper discussion for frontier tech researchers.
+   Deep technical discussion with frontier researchers.
 
 
-5. **Worlds in Action Hack - Info Session** — **[Sign up ->](https://luma.com/y07m54en)**  
-   `Thu, Jul 2 at 10:00 AM | N/A`  
-   Introductory session for physical AI and world models hackathon.
+5. **SF Devtools Drinkup** — **[Sign up ->](https://luma.com/drinkup-s26)**  
+   `Tue, Jun 30 at 6:00 PM | San Francisco, California`  
+   Large community gathering for dev tool builders.
+
+
+---
+
+## Week 4 — Jul 6 to Jul 12
+
+1. **PXL KIM ASENDORF** — **[Sign up ->](https://luma.com/pxl-node)**  
+   `Sat, Jul 11 at 6:00 PM | Palo Alto, CA`  
+   High-signal art/tech event in Palo Alto.
+
+
+2. **N/A**  
+   `Tue, Jul 7 at 12:00 AM | San Francisco, CA`  
+   No high-signal events found for this week.
+
+
+3. **N/A**  
+   `Wed, Jul 8 at 12:00 AM | San Francisco, CA`  
+   No high-signal events found for this week.
+
+
+4. **N/A**  
+   `Thu, Jul 9 at 12:00 AM | San Francisco, CA`  
+   No high-signal events found for this week.
+
+
+5. **N/A**  
+   `Fri, Jul 10 at 12:00 AM | San Francisco, CA`  
+   No high-signal events found for this week.
 
 
 ---
