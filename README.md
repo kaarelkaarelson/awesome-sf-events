@@ -2,134 +2,134 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-06-14 18:10:13`.
+Updated: `2026-06-17 19:24:39`.
 
 ## Top Picks for March
 
-<p>&nbsp;&nbsp;⭐⭐⭐ <strong>Render localhost:2026 SF</strong> — <strong><a href="https://luma.com/localhost-2026-sf?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Jun 18 at 9:00 AM | San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐⭐⭐ <strong>AI Engineer World Fair&#x27;s Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/events/~/e/aiewf-hackathon-2026?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, Jun 27 at 9:00 AM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐⭐ <strong>RocketRide Launch Night: The AIDE is Leaving the Launchpad @ Shack15</strong> — <strong><a href="https://luma.com/f7klujxs?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Jun 18 at 5:00 PM | San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐⭐ <strong>AI Engineer World Fair Demos &amp; Happy Hour</strong> — <strong><a href="https://cerebralvalley.ai/events/~/e/aiewf-happy-hour?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, Jun 30 at 6:00 PM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐ <strong>AI Engineer World Fair Demos &amp; Happy Hour</strong> — <strong><a href="https://cerebralvalley.ai/events/~/e/aiewf-happy-hour?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Jul 1 at 1:00 AM | San Francisco, CA</code></p>
-
-
----
-
-## Week 1 — Jun 15 to Jun 21
-
-1. **Render localhost:2026 SF** — **[Sign up ->](https://luma.com/localhost-2026-sf?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Thu, Jun 18 at 9:00 AM | San Francisco, CA`  
-   Top-tier technical infrastructure event with industry leaders.
-
-
-2. **RocketRide Launch Night: The AIDE is Leaving the Launchpad @ Shack15** — **[Sign up ->](https://luma.com/f7klujxs?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Thu, Jun 18 at 5:00 PM | San Francisco, CA`  
-   Curated networking for serious AI production builders.
-
-
-3. **HUD Frontier / RSI RL Environments Hackathon** — **[Sign up ->](https://events.ycombinator.com/hud-frontier-june-26?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Sat, Jun 20 at 10:00 AM | Y Combinator, San Francisco, CA`  
-   High-signal hackathon backed by DeepMind and Anthropic.
-
-
-4. **Databricks Data + AI Summit 2026** — **[Sign up ->](https://www.databricks.com/dataaisummit?utm_source=cv-events&utm_medium=cerebralvalley)**  
-   `Mon, Jun 15 at 9:00 AM | Moscone North, San Francisco, CA`  
-   Massive industry gathering for data and AI professionals.
-
-
-5. **Voice AI Goes Global A Panel on Multilingual & Multiregional Deployment** — **[Sign up ->](https://luma.com/f4ge0txz?utm_source=cv-events&utm_medium=cerebralvalley)**  
-   `Mon, Jun 15 at 6:00 PM | San Francisco, CA`  
-   Unfiltered technical insights from YC-backed founders.
+<p>&nbsp;&nbsp;⭐ <strong>Meet Jules by Google Labs</strong> — <strong><a href="https://cerebralvalley.ai/events/~/e/meet-jules-june-23?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, Jun 23 at 5:00 PM | San Francisco, CA</code></p>
 
 
 ---
 
-## Week 2 — Jun 22 to Jun 28
+## Week 1 — Jun 22 to Jun 28
 
-1. **The Global State of Deep Tech** — **[Sign up ->](https://luma.com/tjz6cxz2)**  
-   `Mon, Jun 22 at 1:00 PM | San Francisco, CA`  
-   High-signal gathering for deep tech innovation.
-
-
-2. **Config 2026** — **[Sign up ->](https://luma.com/configevents)**  
-   `Tue, Jun 23 at 12:00 AM | San Francisco, CA`  
-   Major industry conference for design and product builders.
+1. **AI Engineer World Fair's Hackathon** — **[Sign up ->](https://cerebralvalley.ai/events/~/e/aiewf-hackathon-2026?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA)**  
+   `Sat, Jun 27 at 9:00 AM | San Francisco, CA`  
+   Top-tier hackathon for serious builders.
 
 
-3. **Frontiers of Neuro** — **[Sign up ->](https://luma.com/3cuqfjso)**  
-   `Wed, Jun 24 at 1:00 PM | San Francisco, CA`  
-   Interdisciplinary deep tech event connecting neurotech and AI.
+2. **Meet Jules by Google Labs** — **[Sign up ->](https://cerebralvalley.ai/events/~/e/meet-jules-june-23?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA)**  
+   `Tue, Jun 23 at 5:00 PM | San Francisco, CA`  
+   Intimate workshop with Google Labs.
 
 
-4. **SVH Capital Presents: Dual Tech Summit 2026** — **[Sign up ->](https://luma.com/dualtechsummitjune26)**  
-   `Wed, Jun 24 at 9:00 AM | San Francisco, CA`  
-   Summit focusing on dual-use technology and innovation.
+3. **Silicon Valley AI/Tech Investing Summit** — **[Sign up ->](https://luma.com/angellaunchjune22aipaid)**  
+   `Mon, Jun 22 at 1:30 PM | Palo Alto, CA`  
+   Strong investor and founder networking.
 
 
-5. **Aerospace & Defense - Deep Tech Summit** — **[Sign up ->](https://luma.com/deep-ot9l)**  
-   `Thu, Jun 25 at 6:00 PM | San Francisco, CA`  
-   Specialized summit for deep tech in aerospace.
+4. **Creative Intelligence at Config** — **[Sign up ->](https://luma.com/9g923r8m)**  
+   `Mon, Jun 22 at 5:00 PM | San Francisco, CA`  
+   High-quality design and tech networking.
+
+
+5. **Raisi x Carta Pitch Night** — **[Sign up ->](https://luma.com/pi1qukrc)**  
+   `Mon, Jun 22 at 5:30 PM | San Francisco, CA`  
+   Great for founder-investor connections.
 
 
 ---
 
-## Week 3 — Jun 29 to Jul 5
+## Week 2 — Jun 29 to Jul 5
 
 1. **AI Engineer World Fair Demos & Happy Hour** — **[Sign up ->](https://cerebralvalley.ai/events/~/e/aiewf-happy-hour?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA)**  
-   `Wed, Jul 1 at 1:00 AM | San Francisco, CA`  
-   Exclusive networking for AI engineers and researchers.
+   `Tue, Jun 30 at 6:00 PM | San Francisco, CA`  
+   Premier networking event for AI professionals.
 
 
 2. **The Agent Open: AI's pickleball tournament** — **[Sign up ->](https://luma.com/the-agent-open)**  
    `Tue, Jun 30 at 3:00 PM | San Francisco, CA`  
-   Unique social networking event for the AI agent community.
+   Unique social activity with high-signal crowd.
 
 
-3. **AI Engineer Worlds Fair Afterparty** — **[Sign up ->](https://luma.com/2avil0ni)**  
+3. **Future Code: Rewriting the Developer Frontier** — **[Sign up ->](https://luma.com/FutureCodeFrontier)**  
+   `Tue, Jun 30 at 5:15 PM | San Francisco, CA`  
+   Technical deep dive with GitHub.
+
+
+4. **AI Engineer Worlds Fair Afterparty** — **[Sign up ->](https://luma.com/2avil0ni)**  
    `Wed, Jul 1 at 6:00 PM | San Francisco, CA`  
-   Major afterparty for the AI engineering community.
+   Networking with major tech partners.
 
 
-4. **AI Engineer After Dark** — **[Sign up ->](https://luma.com/vercel-vtf0)**  
-   `Wed, Jul 1 at 7:30 PM | San Francisco, CA`  
-   High-energy networking event for AI engineers.
-
-
-5. **{AI} in Production** — **[Sign up ->](https://luma.com/5kvakl4z)**  
-   `Thu, Jul 2 at 6:00 PM | San Francisco, CA`  
-   Focused event on productionizing AI systems.
+5. **AI Engineer Trivia Night** — **[Sign up ->](https://luma.com/k9z2sucw)**  
+   `Thu, Jul 2 at 4:30 PM | San Francisco, CA`  
+   Fun, social, and technical networking.
 
 
 ---
 
-## Week 4 — Jul 6 to Jul 12
+## Week 3 — Jul 6 to Jul 12
 
-1. **PXL KIM ASENDORF** — **[Sign up ->](https://luma.com/pxl-node)**  
+1. **LLM fine-tuning with GRPO** — **[Sign up ->](https://luma.com/qd6cu2pb)**  
+   `Thu, Jul 9 at 12:00 PM | Online`  
+   Highly technical session on current LLM methods.
+
+
+2. **PXL KIM ASENDORF** — **[Sign up ->](https://luma.com/pxl-node)**  
    `Sat, Jul 11 at 7:00 PM | Palo Alto, CA`  
-   High-signal art and tech event.
+   Intersection of art and tech.
 
 
-2. **NVIDIA & Marlowe: Scaling Data Science Workloads with RAPIDS** — **[Sign up ->](https://hai.stanford.edu/events/nvidia-marlowe-scaling-data-science-workloads-with-rapids)**  
-   `Wed, Jul 15 at 2:00 PM | Stanford, CA`  
-   Technical workshop on GPU acceleration for data science.
+3. **General Networking** — **[Sign up ->](https://cerebralvalley.ai)**  
+   `Mon, Jul 6 at 12:00 AM | San Francisco, CA`  
+   Placeholder for high-signal ad-hoc meetups.
 
 
-3. **General Networking - Tech Community** — **[Sign up ->](https://luma.com)**  
+4. **General Networking** — **[Sign up ->](https://cerebralvalley.ai)**  
    `Tue, Jul 7 at 12:00 AM | San Francisco, CA`  
-   General community mixer for tech professionals.
+   Placeholder for high-signal ad-hoc meetups.
 
 
-4. **General Networking - Tech Community** — **[Sign up ->](https://luma.com)**  
+5. **General Networking** — **[Sign up ->](https://cerebralvalley.ai)**  
    `Wed, Jul 8 at 12:00 AM | San Francisco, CA`  
-   General community mixer for tech professionals.
+   Placeholder for high-signal ad-hoc meetups.
 
 
-5. **General Networking - Tech Community** — **[Sign up ->](https://luma.com)**  
-   `Thu, Jul 9 at 12:00 AM | San Francisco, CA`  
-   General community mixer for tech professionals.
+---
+
+## Week 4 — Jul 13 to Jul 19
+
+1. **Mission Open 2026** — **[Sign up ->](https://luma.com/mission-open-2026)**  
+   `Sat, Jul 18 at 10:00 AM | Stanford, CA`  
+   Community tennis event for networking.
+
+
+2. **General Networking** — **[Sign up ->](https://cerebralvalley.ai)**  
+   `Mon, Jul 13 at 12:00 AM | San Francisco, CA`  
+   Placeholder for high-signal ad-hoc meetups.
+
+
+3. **General Networking** — **[Sign up ->](https://cerebralvalley.ai)**  
+   `Tue, Jul 14 at 12:00 AM | San Francisco, CA`  
+   Placeholder for high-signal ad-hoc meetups.
+
+
+4. **General Networking** — **[Sign up ->](https://cerebralvalley.ai)**  
+   `Wed, Jul 15 at 12:00 AM | San Francisco, CA`  
+   Placeholder for high-signal ad-hoc meetups.
+
+
+5. **General Networking** — **[Sign up ->](https://cerebralvalley.ai)**  
+   `Thu, Jul 16 at 12:00 AM | San Francisco, CA`  
+   Placeholder for high-signal ad-hoc meetups.
 
 
 ---
