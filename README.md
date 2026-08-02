@@ -2,105 +2,105 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-07-29 18:04:29`.
+Updated: `2026-08-02 17:59:38`.
 
 ## Top Picks for March
 
-<p>&nbsp;&nbsp;⭐⭐⭐ <strong>Hack the Video Agent Context Graph (OpenAI + Neo4j + AWS + TwelveLabs)</strong> — <strong><a href="https://luma.com/hack-video-agent-context-graph-jul30-2026">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Jul 30 at 9:30 AM | San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐⭐⭐ <strong>The Persistent Context Sprint Hackathon | Live at MongoDB .Local Build Fest</strong> — <strong><a href="https://cerebralvalley.ai/events/~/e/persistent-context-sprint-hackathon?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Aug 12 at 10:00 AM | Pier 48</code></p>
 
-<p>&nbsp;&nbsp;⭐⭐ <strong>Built Different: Auth0 x Stripe Hackathon</strong> — <strong><a href="https://luma.com/builtdifferent-auth0-stripe">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Jul 30 at 12:00 PM | San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐⭐ <strong>Extraordinary Founders Dinner (hosted by Andrew Yeung)</strong> — <strong><a href="https://luma.com/ExtraordinaryFoundersAug6">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Aug 6 at 6:30 PM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐ <strong>Bay Area Frontier Research Club #15 | Embodied AI</strong> — <strong><a href="https://luma.com/39h51wb0">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Jul 29 at 5:30 PM | San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐ <strong>AI Tinkerers: August Meetup</strong> — <strong><a href="https://palo-alto.aitinkerers.org/p/ai-tinkerers-palo-alto-august-meetup">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, Aug 18 at 11:30 AM | Palo Alto, CA</code></p>
 
 
 ---
 
 ## Week 1 — Aug 3 to Aug 9
 
-1. **A Morning Walk: When AI Agents Touch Money** — **[Sign up ->](https://luma.com/beyond-yh96)**  
-   `Mon, Aug 3 at 10:00 AM | San Francisco, CA`  
-   High-signal community event for AI builders focused on agentic finance.
+1. **A Closed-Door AI Salon: Researchers, Founders, and Investors** — **[Sign up ->](https://luma.com/37gfp8f1)**  
+   `Thu, Aug 6 at 5:00 PM | Redwood City, CA`  
+   Rare opportunity to engage with researchers, founders, and investors in one room.
 
 
-2. **Silicon Valley AI/Tech Investing Summit** — **[Sign up ->](https://luma.com/angellaunchaugust3)**  
-   `Mon, Aug 3 at 2:00 PM | Palo Alto, CA`  
-   Strong investor-founder networking event for high-growth tech.
+2. **Extraordinary Founders Dinner (hosted by Andrew Yeung)** — **[Sign up ->](https://luma.com/ExtraordinaryFoundersAug6)**  
+   `Thu, Aug 6 at 6:30 PM | San Francisco, CA`  
+   Exclusive networking for high-performing founders.
 
 
-3. **MIT Media Lab roundtable: AI Agents + Agentic Web** — **[Sign up ->](https://luma.com/bqeujky2)**  
-   `Mon, Aug 3 at 3:45 PM | Palo Alto, CA`  
-   Academic-industry bridge event with high-caliber attendees.
+3. **Memory Meets Motion: Hackathon** — **[Sign up ->](https://luma.com/iu9svaun)**  
+   `Mon, Aug 3 at 1:00 AM | Frontier Tower`  
+   High-energy building and networking with industry leaders on agentic workflows.
 
 
-4. **9Zero x Vectors Capital Community Lunch & Learn** — **[Sign up ->](https://luma.com/22tpqm4s)**  
-   `Mon, Aug 3 at 12:00 PM | San Francisco, CA`  
-   Focused discussion on data center infrastructure, a critical AI bottleneck.
+4. **Built by Agents: How Leading YC Companies are Building AI in Production** — **[Sign up ->](https://luma.com/e2b-2281)**  
+   `Tue, Aug 4 at 6:00 PM | San Francisco, CA`  
+   Unfiltered technical insights from YC founders on production AI.
 
 
-5. **Silicon Valley Healthtech Summit** — **[Sign up ->](https://luma.com/angellaunchaugust3health)**  
-   `Mon, Aug 3 at 2:00 PM | Palo Alto, CA`  
-   Niche industry focus with high potential for specialized networking.
+5. **Silicon Valley Robotics Fair 2026** — **[Sign up ->](https://luma.com/05aqg7b8)**  
+   `Sat, Aug 8 at 9:30 AM | San Mateo, CA`  
+   Premier robotics and AI event with 5,000+ attendees.
 
 
 ---
 
 ## Week 2 — Aug 10 to Aug 16
 
-1. **WorkOS Agent Night** — **[Sign up ->](https://luma.com/agent-night)**  
-   `Wed, Aug 12 at 5:00 PM | San Francisco, CA`  
-   Large-scale event with significant industry presence and high-signal networking.
+1. **The Persistent Context Sprint Hackathon | Live at MongoDB .Local Build Fest** — **[Sign up ->](https://cerebralvalley.ai/events/~/e/persistent-context-sprint-hackathon?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA)**  
+   `Wed, Aug 12 at 10:00 AM | Pier 48`  
+   High-signal hackathon with international platform exposure.
 
 
-2. **MongoDB.local Build Fest: San Francisco** — **[Sign up ->](https://luma.com/30zl4ix9)**  
-   `Thu, Aug 13 at 9:00 AM | San Francisco, CA`  
-   Major developer-focused event for building on modern data infrastructure.
-
-
-3. **Frontier Day: Building an AGI-Pilled Company** — **[Sign up ->](https://luma.com/frontier-day-sf)**  
+2. **Frontier Day: Building an AGI-Pilled Company** — **[Sign up ->](https://luma.com/frontier-day-sf)**  
    `Wed, Aug 12 at 1:00 PM | San Francisco, CA`  
-   High-signal gathering for founders focused on AGI-scale companies.
+   Hands-on agent building with industry leaders.
 
 
-4. **AI Healthtech Summit at AngelList** — **[Sign up ->](https://luma.com/aihealthtechsf)**  
-   `Thu, Aug 13 at 6:00 PM | San Francisco, CA`  
-   Targeted networking for healthtech founders and investors.
+3. **Claude Code Workshop** — **[Sign up ->](https://luma.com/claude-code-workshop-sf-aug-11)**  
+   `Tue, Aug 11 at 1:00 PM | San Francisco, CA`  
+   Direct building with Anthropic engineers.
 
 
-5. **Codex Community Meetup: Codex for Marketers** — **[Sign up ->](https://luma.com/fw8aheuk)**  
-   `Thu, Aug 13 at 5:30 PM | San Francisco, CA`  
-   Good for understanding the intersection of AI tooling and growth operations.
+4. **YC Startup Internship Expo** — **[Sign up ->](https://events.ycombinator.com/2027-summer-internship-expo)**  
+   `Sat, Aug 15 at 3:00 AM | Y Combinator`  
+   Rare access to top YC startups and founders.
+
+
+5. **MongoDB.local Build Fest** — **[Sign up ->](https://luma.com/30zl4ix9)**  
+   `Thu, Aug 13 at 9:00 AM | San Francisco, CA`  
+   Mastering production-grade agent deployment.
 
 
 ---
 
 ## Week 3 — Aug 17 to Aug 23
 
-1. **ModCon 2026** — **[Sign up ->](https://luma.com/modcon)**  
-   `Tue, Aug 18 at 7:30 AM | San Francisco, CA`  
-   Premier event for AI infrastructure and developer platforms.
+1. **AI Tinkerers: August Meetup** — **[Sign up ->](https://palo-alto.aitinkerers.org/p/ai-tinkerers-palo-alto-august-meetup)**  
+   `Tue, Aug 18 at 11:30 AM | Palo Alto, CA`  
+   Technical gathering with raw code demos.
 
 
 2. **SUPERNOVA 2026** — **[Sign up ->](https://luma.com/cerebrassupernova26)**  
    `Tue, Aug 18 at 2:00 PM | San Francisco, CA`  
-   Large-scale industry event with significant technical and networking value.
+   Showcase of blazing-fast AI inference and networking.
 
 
-3. **Low-Key Data Happy Hour** — **[Sign up ->](https://luma.com/wcd1kx5o)**  
-   `Tue, Aug 18 at 6:00 PM | San Francisco, CA`  
-   High-signal, no-pitch environment for data professionals.
+3. **Ray Summit 2026** — **[Sign up ->](https://www.anyscale.com/ray-summit/2026)**  
+   `Mon, Aug 24 at 1:00 AM | San Francisco, CA`  
+   Deep dive into AI infrastructure and model development.
 
 
-4. **Mistral Catfe Coworking** — **[Sign up ->](https://luma.com/mistral-summer-catfe-sf)**  
-   `Thu, Aug 20 at 12:00 PM | San Francisco, CA`  
-   Intimate coworking session with high-quality peers in the AI space.
+4. **Agents in Production: DevTools demo night** — **[Sign up ->](https://luma.com/0owahtma)**  
+   `Wed, Aug 19 at 10:30 AM | San Francisco, CA`  
+   Solving the demo-to-production puzzle with experts.
 
 
 5. **Agents are changing the web with Parag Agrawal** — **[Sign up ->](https://luma.com/sy0mt1m4)**  
    `Thu, Aug 20 at 6:00 PM | San Francisco, CA`  
-   Fireside chat with a high-profile founder in the agentic space.
+   Fireside chat with a major tech platform leader.
 
 
 ---
@@ -109,27 +109,27 @@ Updated: `2026-07-29 18:04:29`.
 
 1. **Step SF 2026: The AI & Tech Startup Festival** — **[Sign up ->](https://luma.com/StepSF26)**  
    `Thu, Aug 27 at 9:00 AM | San Francisco, CA`  
-   The biggest startup festival of the month, essential for networking.
+   High-signal festival with founder-investor matchmaking.
 
 
-2. **Up After Dark - TailscaleUp's Official Afterparty** — **[Sign up ->](https://luma.com/gkhrxqkw)**  
-   `Wed, Aug 26 at 7:00 PM | San Francisco, CA`  
-   High-energy networking event for the developer community.
+2. **AI Data Center Night** — **[Sign up ->](https://luma.com/datacenterai)**  
+   `Tue, Aug 25 at 6:00 PM | San Francisco, CA`  
+   Tackling critical physical bottlenecks in AI infrastructure.
 
 
-3. **The Psychology of Illusion: A Magician Reveals His Secrets** — **[Sign up ->](https://luma.com/x2chb1wr)**  
-   `Thu, Aug 27 at 7:00 PM | San Francisco, CA`  
-   Unique, high-signal social event for creative tech leaders.
+3. **Physical AI: What's Working (and What Still Breaks)** — **[Sign up ->](https://luma.com/rallysf-yfs4)**  
+   `Tue, Aug 25 at 10:00 AM | 1 Ferry Building ste 200`  
+   Deep dive into robotics and sim-to-real gaps.
 
 
-4. **Maison Noir Vol. III Bal Masque** — **[Sign up ->](https://luma.com/mki438ls)**  
-   `Sat, Aug 29 at 9:00 PM | San Francisco, CA`  
-   Exclusive, high-end networking for the SF tech elite.
+4. **Better Days: A Hackathon** — **[Sign up ->](https://luma.com/clickh-sie8)**  
+   `Fri, Aug 28 at 9:00 AM | San Francisco, CA`  
+   Hackathon focused on real-world crisis solutions.
 
 
-5. **August - How to Rule the World by Theo Baker** — **[Sign up ->](https://luma.com/0pza6p4n)**  
-   `Sun, Aug 30 at 1:30 PM | San Francisco, CA`  
-   Intellectual book club for ambitious tech professionals.
+5. **Platforms for the AI Era** — **[Sign up ->](https://luma.com/eavisvo3)**  
+   `Thu, Aug 27 at 10:30 AM | Nutanix Office`  
+   Insights on cloud infrastructure and AI resilience.
 
 
 ---
