@@ -2,134 +2,134 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-08-26 18:56:37`.
+Updated: `2026-08-30 19:38:25`.
 
 ## Top Picks for March
 
-<p>&nbsp;&nbsp;⭐⭐⭐ <strong>Agent Native Builders Hackathon @ Cloudflare HQ</strong> — <strong><a href="https://luma.com/agentnativebuildershackathon">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Aug 26 at 10:00 AM | San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐⭐⭐ <strong>The Agent Arena Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/events/~/e/vultr-the-agent-arena?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, Sep 26 at 9:00 AM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐⭐ <strong>Step SF 2026: The AI &amp; Tech Startup Festival</strong> — <strong><a href="https://luma.com/StepSF26">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Aug 27 at 9:00 AM | San Francisco, CA</code></p>
-
-<p>&nbsp;&nbsp;⭐ <strong>Agentic + AI Night: Multi-Agent Governance and Security</strong> — <strong><a href="https://luma.com/agenticaiobsnightsf-9-1">Sign up -></a></strong><br>
+<p>&nbsp;&nbsp;⭐⭐ <strong>Agentic + AI Night: Multi-agent Governance and Security</strong> — <strong><a href="https://trymimetic.com/events/sf/agentic-ai-observability-night-sf-may-2026?utm_source=cv-events&utm_medium=cerebralvalley">Sign up -></a></strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, Sep 1 at 3:30 PM | San Francisco, CA</code></p>
+
+<p>&nbsp;&nbsp;⭐ <strong>Frontier Signals #02: What Will AI Learn Next?</strong> — <strong><a href="https://luma.com/kce3d5nr?utm_source=cv-events&utm_medium=cerebralvalley">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Oct 1 at 5:00 PM | San Francisco, CA</code></p>
 
 
 ---
 
 ## Week 1 — Aug 31 to Sep 6
 
-1. **Agentic + AI Night: Multi-Agent Governance and Security** — **[Sign up ->](https://luma.com/agenticaiobsnightsf-9-1)**  
+1. **Agentic + AI Night: Multi-agent Governance and Security** — **[Sign up ->](https://trymimetic.com/events/sf/agentic-ai-observability-night-sf-may-2026?utm_source=cv-events&utm_medium=cerebralvalley)**  
    `Tue, Sep 1 at 3:30 PM | San Francisco, CA`  
-   Deep-dive technical session on agentic systems.
+   Critical technical discussion on agent governance with industry leaders.
 
 
-2. **Wasmer: Beyond Containers** — **[Sign up ->](https://luma.com/3ns1f786)**  
-   `Tue, Sep 1 at 5:30 PM | San Francisco, CA`  
-   High-signal technical talk on infrastructure and WebAssembly.
+2. **Frontier Signals #02: What Will AI Learn Next?** — **[Sign up ->](https://luma.com/kce3d5nr?utm_source=cv-events&utm_medium=cerebralvalley)**  
+   `Thu, Oct 1 at 5:00 PM | San Francisco, CA`  
+   Strategic insights on the future of multimodal AI from top researchers.
 
 
-3. **Bay Area Frontier Research Club #20** — **[Sign up ->](https://luma.com/d3ryhrpp)**  
-   `Wed, Sep 2 at 5:30 PM | Stanford, CA`  
-   Elite research community gathering for frontier tech.
+3. **Agents & Bagels: Weekly meet up for agent builders** — **[Sign up ->](https://luma.com/hp2t7s54?utm_source=cv-events&utm_medium=cerebralvalley)**  
+   `Tue, Sep 1 at 5:00 PM | San Francisco, CA`  
+   High-quality networking with YC founders and engineers in the agent space.
 
 
-4. **Al Dente: A Founder-Investor pasta-making dinner** — **[Sign up ->](https://luma.com/pk8b8b5h)**  
-   `Wed, Sep 2 at 6:00 PM | San Francisco, CA`  
-   Curated social event for ambitious women founders and investors.
+4. **AI Builders Breakfast** — **[Sign up ->](https://luma.com/aibuildersnight?utm_source=cv-events&utm_medium=cerebralvalley)**  
+   `Wed, Sep 2 at 9:30 AM | San Francisco, CA`  
+   Technical networking with senior engineers from top AI companies.
 
 
-5. **Cafe Cowork: Temporal x Corgi** — **[Sign up ->](https://luma.com/cafe-cowork-temporal)**  
-   `Fri, Sep 4 at 9:00 AM | San Francisco, CA`  
-   Casual but high-quality builder coworking session.
+5. **Builders Night** — **[Sign up ->](https://luma.com/kwtn1hx9?utm_source=cv-events&utm_medium=cerebralvalley)**  
+   `Mon, Aug 31 at 6:30 PM | 550 Laguna St`  
+   Focused work session for makers to gain momentum and feedback.
 
 
 ---
 
 ## Week 2 — Sep 7 to Sep 13
 
-1. **Agent-Led Growth / Agent Experience Demo Night @ AWS Loft** — **[Sign up ->](https://luma.com/agentexperiencedemonight)**  
-   `Tue, Sep 8 at 5:00 PM | San Francisco, CA`  
-   Strong demo-focused event with high-quality networking.
-
-
-2. **Llama Lounge 26: The AI Startup Event Series @ Microsoft** — **[Sign up ->](https://luma.com/llamalounge26)**  
+1. **Llama Lounge 26: The AI Startup Event Series** — **[Sign up ->](https://luma.com/llamalounge26)**  
    `Thu, Sep 10 at 5:00 PM | Mountain View, CA`  
-   Premier AI startup series with high-signal demo floor.
+   Major series for AI startup demos and networking.
 
 
-3. **137th SF Hardware Meetup @ Mission Robotics** — **[Sign up ->](https://luma.com/84lattht)**  
+2. **137th SF Hardware Meetup** — **[Sign up ->](https://luma.com/84lattht)**  
    `Thu, Sep 10 at 6:30 PM | San Francisco, CA`  
-   Established community for hardware and physical AI builders.
+   Long-standing community for hardware and physical AI builders.
 
 
-4. **Agentworld x Superdark Factory Antikythera x Disintegrator** — **[Sign up ->](https://luma.com/fawtwq0b)**  
-   `Fri, Sep 11 at 6:30 PM | San Francisco, CA`  
-   Unique, high-signal creative tech event.
+3. **Demo Night @ WorkOS** — **[Sign up ->](https://luma.com/demo-night-sept2026)**  
+   `Mon, Sep 14 at 5:30 PM | San Francisco, CA`  
+   High-signal demo night for developers and founders.
 
 
-5. **AI Filmmaking Masterclass + Hackathon** — **[Sign up ->](https://luma.com/pw54q8np)**  
+4. **AI Filmmaking Masterclass + Hackathon** — **[Sign up ->](https://luma.com/pw54q8np)**  
    `Sun, Sep 13 at 9:00 AM | San Francisco, CA`  
-   Hands-on creative AI workshop and hackathon.
+   Hands-on workshop for multimodal AI creative workflows.
+
+
+5. **Agent-Led Growth Demo Night** — **[Sign up ->](https://luma.com/agentexperiencedemonight)**  
+   `Tue, Sep 8 at 5:00 PM | San Francisco, CA`  
+   Focused demo night on agent experience and developer tools.
 
 
 ---
 
 ## Week 3 — Sep 14 to Sep 20
 
-1. **Demo Night @ WorkOS (September)** — **[Sign up ->](https://luma.com/demo-night-sept2026)**  
-   `Mon, Sep 14 at 5:30 PM | San Francisco, CA`  
-   High-signal demo night with top-tier developer tools community.
+1. **Ground Truth by Sphere ft. a16z** — **[Sign up ->](https://luma.com/ahb7ttbn)**  
+   `Thu, Sep 17 at 1:00 PM | San Francisco, CA`  
+   High-profile event with significant VC backing.
 
 
-2. **All Things Agent Setups** — **[Sign up ->](https://luma.com/allthings-kj2x)**  
-   `Tue, Sep 15 at 5:30 PM | San Francisco, CA`  
-   Technical deep dive into agent infrastructure.
-
-
-3. **Humongous AI Meetup** — **[Sign up ->](https://luma.com/lyzw2vit)**  
+2. **Humongous AI Meetup** — **[Sign up ->](https://luma.com/lyzw2vit)**  
    `Wed, Sep 16 at 6:00 PM | San Francisco, CA`  
-   Large-scale networking event for AI builders.
+   Large-scale community meetup for AI practitioners.
 
 
-4. **The Acquired Meetup** — **[Sign up ->](https://luma.com/acquiredmeetup)**  
-   `Thu, Sep 17 at 5:00 PM | San Francisco, CA`  
-   High-profile networking event for tech operators.
+3. **AI Infra Summit Hackathon** — **[Sign up ->](https://luma.com/lablab-zbl9)**  
+   `Tue, Sep 15 at 8:00 AM | Santa Clara, CA`  
+   Deep dive into AI infrastructure with a hackathon component.
 
 
-5. **East Bay Neurotech Happy Hour** — **[Sign up ->](https://luma.com/bpk7tj30)**  
-   `Thu, Sep 17 at 5:00 PM | Alameda, CA`  
-   Niche, high-signal community for neurotech.
+4. **Bay Area Rust - Graphics Meetup** — **[Sign up ->](https://luma.com/9oiujuyw)**  
+   `Wed, Sep 16 at 6:00 PM | San Francisco, CA`  
+   Technical community for systems programming and graphics.
+
+
+5. **SF AI Code And Coffee** — **[Sign up ->](https://luma.com/fxkf0luc)**  
+   `Sun, Sep 20 at 2:00 PM | San Francisco, CA`  
+   Casual but large-scale community networking for AI developers.
 
 
 ---
 
 ## Week 4 — Sep 21 to Sep 27
 
-1. **GenMedia Conference 2026 Registration** — **[Sign up ->](https://luma.com/zwnmf3oo)**  
+1. **The Agent Arena Hackathon** — **[Sign up ->](https://cerebralvalley.ai/events/~/e/vultr-the-agent-arena?modalCloseUrl=%2Fevents%3Flocations%3DBAY_AREA)**  
+   `Sat, Sep 26 at 9:00 AM | San Francisco, CA`  
+   Can't-miss hackathon for agent infrastructure.
+
+
+2. **Pitch Roast Live - The S.F. Debut** — **[Sign up ->](https://luma.com/PRLSFdebut)**  
+   `Wed, Sep 23 at 6:00 PM | San Francisco, CA`  
+   Unique blend of comedy, startups, and VC networking.
+
+
+3. **Claude Coworkshop** — **[Sign up ->](https://luma.com/claude-coworkshop-sf-sept-21)**  
+   `Mon, Sep 21 at 1:00 PM | San Francisco, CA`  
+   Hands-on workshop for building with Claude.
+
+
+4. **GenMedia Conference 2026** — **[Sign up ->](https://luma.com/zwnmf3oo)**  
    `Thu, Sep 24 at 9:00 AM | San Francisco, CA`  
-   Important industry conference for generative media.
+   Focused conference on generative media and developer tools.
 
 
-2. **Transit Tales** — **[Sign up ->](https://luma.com/ojzh60h7)**  
-   `Wed, Sep 23 at 6:00 PM | Oakland, CA`  
-   Unique storytelling event for local community building.
-
-
-3. **LPL Romantasy Book Club** — **[Sign up ->](https://luma.com/vdk8mt2q)**  
-   `Mon, Sep 28 at 6:30 PM | San Francisco, CA`  
-   Social community event for creative interests.
-
-
-4. **Supabase Select 2026** — **[Sign up ->](https://luma.com/supabase-select-2026)**  
-   `Fri, Oct 2 at 9:00 AM | San Francisco, CA`  
-   Major developer platform event (upcoming).
-
-
-5. **Transit Books Presents: Our Party in the Forest** — **[Sign up ->](https://luma.com/lqqg6oue)**  
-   `Fri, Oct 16 at 7:00 PM | Berkeley, CA`  
-   Cultural event for networking outside of pure tech.
+5. **Curated VC x Founder Mixer** — **[Sign up ->](https://luma.com/mixer21sept)**  
+   `Mon, Sep 21 at 5:30 PM | San Francisco, CA`  
+   High-value networking event for founders and investors.
 
 
 ---
