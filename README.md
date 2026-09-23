@@ -2,134 +2,134 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-09-20 19:15:14`.
+Updated: `2026-09-23 19:57:27`.
 
 ## Top Picks for March
 
-<p>&nbsp;&nbsp;⭐⭐⭐ <strong>-1 to Waymo with Dmitri Dolgov</strong> — <strong><a href="https://luma.com/dmitri-waymo-spc">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Mon, Sep 21 at 2:30 PM | San Francisco, California</code></p>
+<p>&nbsp;&nbsp;⭐⭐⭐ <strong>WeAreDevelopers World Congress North America</strong> — <strong><a href="https://luma.com/fdz7uw6n">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Sep 23 at 10:00 AM | San Jose, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐⭐ <strong>The Agent Arena Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/e/vultr-the-agent-arena?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, Sep 26 at 9:00 AM | San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐⭐ <strong>SF Frontier Hackathon: Build your Autonomous Code Factory</strong> — <strong><a href="https://luma.com/frontierSF">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Sep 24 at 10:00 AM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐ <strong>Vercel Ship 26 | San Francisco</strong> — <strong><a href="https://vercel.com/ship?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Oct 14 at 5:00 PM | Palace of Fine Arts, San Francisco, CA</code></p>
-
-
----
-
-## Week 1 — Sep 21 to Sep 27
-
-1. **-1 to Waymo with Dmitri Dolgov** — **[Sign up ->](https://luma.com/dmitri-waymo-spc)**  
-   `Mon, Sep 21 at 2:30 PM | San Francisco, California`  
-   Direct access to autonomous vehicle industry leadership.
-
-
-2. **The Agent Arena Hackathon** — **[Sign up ->](https://cerebralvalley.ai/e/vultr-the-agent-arena?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Sat, Sep 26 at 9:00 AM | San Francisco, CA`  
-   High-intensity environment for building production agent infrastructure.
-
-
-3. **Battle of the Personal Brains Hackathon** — **[Sign up ->](https://luma.com/sep-21-cognee-aws)**  
-   `Mon, Sep 21 at 4:00 PM | San Francisco, CA`  
-   Focused on personal agent development with strong industry backing.
-
-
-4. **Enterprise Hackathon 2.0** — **[Sign up ->](https://luma.com/epfgz3gx)**  
-   `Mon, Sep 21 at 9:30 AM | San Francisco, CA`  
-   Action-oriented event for enterprise AI workflow automation.
-
-
-5. **KSC Founders Pitch Day | Physical AI, Robotics and more** — **[Sign up ->](https://luma.com/7qtbycmm)**  
-   `Mon, Sep 21 at 4:00 PM | Menlo Park, CA`  
-   Exposure to high-potential international startups in physical AI.
+<p>&nbsp;&nbsp;⭐ <strong>ThinkingAI Agentic Growth Summit 2026</strong> — <strong><a href="https://luma.com/thinkingai-summit-us">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Mon, Sep 28 at 12:00 PM | Mountain View, CA</code></p>
 
 
 ---
 
-## Week 2 — Sep 28 to Oct 4
+## Week 1 — Sep 28 to Oct 4
 
-1. **Supabase Select 26** — **[Sign up ->](https://select.supabase.com/?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Thu, Oct 1 at 5:00 PM | 555 20th Street, San Francisco, CA`  
-   Key platform event with direct access to Supabase engineers.
-
-
-2. **Empirical Methods in the Age of AI** — **[Sign up ->](https://hai.stanford.edu/events/empirical-methods-in-the-age-of-ai)**  
-   `Fri, Oct 2 at 12:00 AM | Stanford, CA`  
-   Academic-industry bridge for AI evaluation and data science.
+1. **ThinkingAI Agentic Growth Summit 2026** — **[Sign up ->](https://luma.com/thinkingai-summit-us)**  
+   `Mon, Sep 28 at 12:00 PM | Mountain View, CA`  
+   Major summit on agentic growth at a landmark venue.
 
 
-3. **Anastasios Angelopoulos | Measuring AI in the Real World** — **[Sign up ->](https://hai.stanford.edu/events/anastasios-angelopoulos-measuring-ai-in-the-real-world)**  
-   `Fri, Oct 2 at 1:00 PM | Stanford, CA`  
-   Deep dive into AI measurement science and evaluation.
+2. **AI Reality Summit** — **[Sign up ->](https://luma.com/ai-reality-summit)**  
+   `Mon, Sep 28 at 8:00 AM | San Francisco, CA`  
+   High-end summit on operational AI, attracting serious industry players.
 
 
-4. **Supabase Select 2026 Hackathon** — **[Sign up ->](https://luma.com/select-2026-hackathon)**  
-   `Sat, Oct 3 at 9:00 AM | San Francisco, CA`  
-   Hands-on building with a leading backend-as-a-service provider.
+3. **Startup Speedrun Hackathon** — **[Sign up ->](https://luma.com/g42o84ln)**  
+   `Mon, Sep 28 at 9:00 AM | San Francisco, CA`  
+   Fast-paced hackathon for rapid prototyping.
 
 
-5. **Cherry, On Top the anti-networking launch party** — **[Sign up ->](https://luma.com/cherry-4hn8)**  
-   `Fri, Oct 2 at 8:00 PM | San Francisco, CA`  
-   High-quality social networking for women in tech.
+4. **Cache Me Outside: A Rooftop Party at the AI Conference** — **[Sign up ->](https://luma.com/wesjv6eq)**  
+   `Wed, Sep 30 at 5:00 PM | San Francisco, CA`  
+   Networking event with Baseten and LangChain.
+
+
+5. **STACKED: Sandboxes, Inference, & Observability** — **[Sign up ->](https://luma.com/e2b-0e34)**  
+   `Wed, Sep 30 at 6:00 PM | San Francisco, CA`  
+   Technical deep dive into AI infrastructure.
 
 
 ---
 
-## Week 3 — Oct 5 to Oct 11
+## Week 2 — Oct 5 to Oct 11
 
-1. **Tim de Silva | AI Financial Advice: Supply, Demand, and Life Cycle Implications** — **[Sign up ->](https://hai.stanford.edu/events/tim-de-silva-ai-financial-advice-supply-demand-and-life-cycle-implications)**  
-   `Wed, Oct 7 at 12:00 PM | Stanford, CA`  
-   High-level seminar on AI application in finance.
+1. **FARR Summit Oct 5th** — **[Sign up ->](https://luma.com/FARRsummit)**  
+   `Mon, Oct 5 at 11:30 AM | San Francisco, CA`  
+   Curated summit for founders and investors.
 
 
 2. **init() by WorkOS** — **[Sign up ->](https://luma.com/init-conf)**  
    `Wed, Oct 7 at 8:00 AM | San Francisco, CA`  
-   Major developer conference for modern software stacks.
+   Major developer conference by WorkOS.
 
 
-3. **SF Tech Week Agent Day** — **[Sign up ->](https://luma.com/7wn8tsf7)**  
+3. **SF Tech Week AI Demo Night** — **[Sign up ->](https://luma.com/clickh-zngw)**  
+   `Tue, Oct 6 at 5:00 PM | San Francisco, CA`  
+   Demo night during SF Tech Week.
+
+
+4. **SF Tech Week Agent Day** — **[Sign up ->](https://luma.com/7wn8tsf7)**  
    `Fri, Oct 9 at 12:00 PM | Menlo Park, California`  
-   Focused deep dive into agentic AI during SF Tech Week.
+   Focused day on AI agents during Tech Week.
 
 
-4. **Developers after Dark** — **[Sign up ->](https://luma.com/developers-after-dark)**  
+5. **Developers after Dark** — **[Sign up ->](https://luma.com/developers-after-dark)**  
    `Thu, Oct 8 at 6:00 PM | San Francisco, CA`  
-   Unique networking event for developers in a high-signal venue.
-
-
-5. **Hardware FYI: SF Tech Week Edition** — **[Sign up ->](https://luma.com/g5sdw0b6)**  
-   `Fri, Oct 9 at 5:00 PM | San Francisco, CA`  
-   Essential networking for the hardware and robotics community.
+   Networking event at the Exploratorium.
 
 
 ---
 
-## Week 4 — Oct 12 to Oct 18
+## Week 3 — Oct 12 to Oct 18
 
-1. **Vercel Ship 26 | San Francisco** — **[Sign up ->](https://vercel.com/ship?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Wed, Oct 14 at 5:00 PM | Palace of Fine Arts, San Francisco, CA`  
-   Premier event for AI agent deployment and scaling.
-
-
-2. **Marlowe | AI + Data for Science with Curtis Langlotz** — **[Sign up ->](https://marlowe-research.stanford.edu/events/ai4science/)**  
-   `Wed, Oct 14 at 4:30 PM | CoDa E160, Stanford, CA`  
-   Cutting-edge research seminar on AI in scientific discovery.
+1. **Open Together: AI Builders Unite** — **[Sign up ->](https://luma.com/OpenTogether)**  
+   `Fri, Oct 16 at 6:00 PM | San Francisco, CA`  
+   Large community event hosted by Hugging Face.
 
 
-3. **Company Brain Hackathon** — **[Sign up ->](https://luma.com/oct-hackathon)**  
+2. **MITAI Conference 2026: Age of Agency** — **[Sign up ->](https://luma.com/mitai2026)**  
+   `Sat, Oct 17 at 8:15 AM | Mountain View, CA`  
+   High-level conference for MIT alumni and founders.
+
+
+3. **The AI-Native Talent Hunt with Codex - #SFTechWeek** — **[Sign up ->](https://luma.com/yjt7f4ty)**  
+   `Sun, Oct 11 at 9:00 AM | San Francisco, CA`  
+   Talent-focused event for AI-native builders.
+
+
+4. **Company Brain Hackathon: Build an AI Agent That Knows Your Organization** — **[Sign up ->](https://luma.com/oct-hackathon)**  
    `Mon, Oct 12 at 1:00 PM | Menlo Park, CA`  
-   Practical hackathon for building organizational AI agents.
+   Hackathon focused on organizational AI agents.
 
 
-4. **Agentic + AI Observability Meetup SF** — **[Sign up ->](https://luma.com/Agentic_AI_10-13)**  
-   `Tue, Oct 13 at 5:00 PM | San Francisco, California`  
-   Technical focus on reliability and observability for agents.
+5. **FAST FORWARD** — **[Sign up ->](https://luma.com/fastforwardhack)**  
+   `Wed, Oct 14 at 10:00 AM | San Francisco, CA`  
+   Vercel-hosted hackathon for developers.
 
 
-5. **Shoshana Berger // Good Life Design** — **[Sign up ->](https://luma.com/8k55glb9)**  
-   `Tue, Oct 13 at 5:30 PM | Berkeley, California`  
-   Thought-provoking design talk at the Jacobs Institute.
+---
+
+## Week 4 — Oct 19 to Oct 25
+
+1. **Long Horizon Physical AI Summit** — **[Sign up ->](https://luma.com/artifi-ufqw)**  
+   `Tue, Oct 20 at 9:00 AM | San Francisco, CA`  
+   Summit focused on physical AI and robotics.
+
+
+2. **Build Something Real: The Serverpod Hackathon** — **[Sign up ->](https://luma.com/builde-mked)**  
+   `Tue, Sep 15 at 8:30 AM | Online/Global`  
+   Long-running hackathon ending in this window.
+
+
+3. **A Fireside Chat with Goldman Sachs' Jim Donovan** — **[Sign up ->](https://luma.com/GSxDN)**  
+   `Tue, Oct 20 at 4:30 PM | Cambridge, MA`  
+   High-level finance/tech discussion (travel event).
+
+
+4. **TechEquity Ai Summit 2026: Talks + AI Agent Workshops** — **[Sign up ->](https://luma.com/ai-summit-2026)**  
+   `Tue, Nov 3 at 8:30 AM | Menlo Park, CA`  
+   Upcoming summit (early registration).
+
+
+5. **Open Source AI Day** — **[Sign up ->](https://luma.com/open-source-ai-day)**  
+   `Fri, Feb 26 at 9:30 AM | Online/Global`  
+   Future-looking event for open source AI.
 
 
 ---
