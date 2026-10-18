@@ -2,18 +2,18 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-10-14 20:25:42`.
+Updated: `2026-10-18 19:12:58`.
 
 ## Top Picks for March
 
-<p>&nbsp;&nbsp;⭐⭐⭐ <strong>The Recursive Agents Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/e/crusoe-recursive-agents-hackathon?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, Oct 17 at 2:00 AM | San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐⭐⭐ <strong>Confronting Our AI Future: Hope, Fear, and the Choices Ahead</strong> — <strong><a href="https://hai.stanford.edu/events/confronting-our-ai-future-hope-fear-and-the-choices-ahead">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Oct 28 at 9:00 AM | Stanford, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐⭐ <strong>Intelligence at Work Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/e/intelligence-at-work-hackathon?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Fri, Oct 23 at 1:30 AM | Menlo Park, CA</code></p>
+<p>&nbsp;&nbsp;⭐⭐ <strong>Data Outpost</strong> — <strong><a href="https://luma.com/data-outpost-2026">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Nov 4 at 8:30 AM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐ <strong>HUMANOID HUB Conference</strong> — <strong><a href="https://luma.com/humanoid-hub-conference?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Oct 15 at 10:00 AM | San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐ <strong>Intelligence at Work Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/e/intelligence-at-work-hackathon?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Fri, Oct 23 at 8:30 AM | Menlo Park, CA</code></p>
 
 
 ---
@@ -21,28 +21,28 @@ Updated: `2026-10-14 20:25:42`.
 ## Week 1 — Oct 19 to Oct 25
 
 1. **Intelligence at Work Hackathon** — **[Sign up ->](https://cerebralvalley.ai/e/intelligence-at-work-hackathon?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Fri, Oct 23 at 1:30 AM | Menlo Park, CA`  
-   Top-tier industry partnership hackathon.
+   `Fri, Oct 23 at 8:30 AM | Menlo Park, CA`  
+   High-impact hackathon with top-tier AI partners.
 
 
 2. **Agents hunting Agents: Open Source + AI approaches.** — **[Sign up ->](https://luma.com/aicyber-59x4)**  
    `Mon, Oct 19 at 10:30 AM | Menlo Park, CA`  
-   Focused on AI security and agentic systems.
+   Strong focus on AI security and agentic systems with a technical crowd.
 
 
 3. **Cline, Parallel, & Composio Hackathon** — **[Sign up ->](https://luma.com/m8euvq9n)**  
    `Mon, Oct 19 at 11:00 AM | San Francisco, CA`  
-   Hands-on technical hackathon for agentic tooling.
+   Focused on agentic tooling and developer experience.
 
 
-4. **Open Source AI Week 2026 | Open Weight Debate Night** — **[Sign up ->](https://luma.com/592fcwx2)**  
+4. **Open Source AI Week | Open Weight Debate Night** — **[Sign up ->](https://luma.com/592fcwx2)**  
    `Mon, Oct 19 at 5:00 PM | San Francisco, CA`  
-   High-signal debate on open-source AI models.
+   Key debate for the open-source AI community.
 
 
 5. **THE SF DATABASE MEETUP: October** — **[Sign up ->](https://luma.com/ip56zybg)**  
    `Mon, Oct 19 at 5:30 PM | San Francisco, CA`  
-   Strong technical community event for database builders.
+   Strong technical networking for data infrastructure.
 
 
 ---
@@ -50,86 +50,86 @@ Updated: `2026-10-14 20:25:42`.
 ## Week 2 — Oct 26 to Nov 1
 
 1. **Confronting Our AI Future: Hope, Fear, and the Choices Ahead** — **[Sign up ->](https://hai.stanford.edu/events/confronting-our-ai-future-hope-fear-and-the-choices-ahead)**  
-   `Wed, Oct 28 at 2:00 AM | Stanford, CA`  
-   Major conference on AI policy and societal impact.
+   `Wed, Oct 28 at 9:00 AM | Stanford, CA`  
+   Premier academic and policy conference on AI's future.
 
 
-2. **Scaling Intelligence Modal x Gray Area Commissions OPENING NIGHT** — **[Sign up ->](https://luma.com/5j93bc4c)**  
-   `Wed, Oct 28 at 7:00 PM | San Francisco, CA`  
-   Intersection of art and AI infrastructure.
-
-
-3. **San Francisco Syntax Meetup** — **[Sign up ->](https://luma.com/5ng6bniy)**  
+2. **San Francisco Syntax Meetup** — **[Sign up ->](https://luma.com/5ng6bniy)**  
    `Tue, Oct 27 at 5:00 PM | San Francisco, California`  
-   Popular developer community meetup.
+   Large, high-energy developer community meetup.
 
 
-4. **Running Production with Agents** — **[Sign up ->](https://luma.com/r8sy88tq)**  
-   `Tue, Oct 27 at 5:30 PM | San Francisco, CA`  
-   Practical focus on agent reliability in production.
+3. **Women in AI | Factory x Sapienne x Sequoia** — **[Sign up ->](https://luma.com/factoryai-sdkw)**  
+   `Tue, Oct 27 at 7:00 PM | San Francisco, CA`  
+   High-signal networking with top-tier VC and industry leaders.
 
 
-5. **One Way Summit 2026** — **[Sign up ->](https://luma.com/onewaysummit2026)**  
-   `Wed, Oct 28 at 9:00 AM | San Francisco, California`  
-   Flagship event for immigrant entrepreneurship.
+4. **Scaling Intelligence Modal x Gray Area Commissions OPENING NIGHT** — **[Sign up ->](https://luma.com/5j93bc4c)**  
+   `Wed, Oct 28 at 7:00 PM | San Francisco, CA`  
+   Intersection of art and AI, great for creative tech networking.
+
+
+5. **ANNUAL MRC HALLOWEEN PARTY** — **[Sign up ->](https://luma.com/pdgi6lzs)**  
+   `Fri, Oct 30 at 7:30 PM | San Francisco, CA`  
+   Strong social event for the tech community.
 
 
 ---
 
 ## Week 3 — Nov 2 to Nov 8
 
-1. **TechEquity Ai Summit 2026** — **[Sign up ->](https://luma.com/ai-summit-2026)**  
-   `Tue, Nov 3 at 8:30 AM | Menlo Park, CA`  
-   Comprehensive summit with workshops and hackathon.
+1. **Data Outpost** — **[Sign up ->](https://luma.com/data-outpost-2026)**  
+   `Wed, Nov 4 at 8:30 AM | San Francisco, CA`  
+   Major conference on AI and data infrastructure.
 
 
-2. **2026 SC2 Student Conference** — **[Sign up ->](https://hai.stanford.edu/events/2026-sc2-student-conference)**  
-   `Fri, Nov 6 at 12:30 AM | Stanford, CA`  
-   Academic and research-focused data science conference.
-
-
-3. **Baseten CEO Ankur and Greylock Partner Corinne on how agents are changing evals** — **[Sign up ->](https://luma.com/baseten-g3n4)**  
+2. **Braintrust CEO Ankur and Greylock Partner Corinne on how agents are changing evals** — **[Sign up ->](https://luma.com/baseten-g3n4)**  
    `Thu, Nov 5 at 6:00 PM | San Francisco, CA`  
-   High-level discussion on AI evaluation.
+   High-signal talk on agentic evaluation.
 
 
-4. **Snowflake Platform Training Workshop** — **[Sign up ->](https://luma.com/workshop-snowflake-nov-3-2026)**  
-   `Tue, Nov 3 at 2:00 PM | Menlo Park, CA`  
-   Technical training on data cloud infrastructure.
+3. **2026 SC2 Student Conference** — **[Sign up ->](https://hai.stanford.edu/events/2026-sc2-student-conference)**  
+   `Fri, Nov 6 at 8:30 AM | Stanford, CA`  
+   Great for connecting with the next generation of researchers.
 
 
-5. **Marlowe | AI + Data for Science with Ruijiang Li** — **[Sign up ->](https://marlowe-research.stanford.edu/events/ai4science/)**  
-   `Wed, Nov 4 at 8:30 AM | Stanford, CA`  
-   Academic seminar on AI for science.
+4. **Center for Decoding the Universe Fall Forum** — **[Sign up ->](https://hai.stanford.edu/events/center-for-decoding-the-universe-fall-forum)**  
+   `Mon, Nov 9 at 12:00 PM | Stanford, CA`  
+   Interdisciplinary forum on advanced research topics.
+
+
+5. **CNDS Seminar - Daniel Wurgaft** — **[Sign up ->](https://events.stanford.edu/event/cnds-seminar-daniel-wurgaft)**  
+   `Mon, Nov 9 at 4:00 PM | Stanford, CA`  
+   Technical seminar on neural data science.
 
 
 ---
 
 ## Week 4 — Nov 9 to Nov 15
 
-1. **Stripe Startups Build Day San Francisco** — **[Sign up ->](https://luma.com/r1d48cpq)**  
+1. **After Tokens** — **[Sign up ->](https://luma.com/after-tokens)**  
+   `Tue, Nov 10 at 8:00 AM | San Francisco, CA`  
+   Networking event focused on the AI economy.
+
+
+2. **partner demo day** — **[Sign up ->](https://luma.com/w0vmh85c)**  
+   `Tue, Nov 10 at 3:00 PM | San Francisco, CA`  
+   Showcase of partner startups and builders.
+
+
+3. **Stripe Startups Build Day San Francisco** — **[Sign up ->](https://luma.com/r1d48cpq)**  
    `Wed, Nov 11 at 9:30 AM | South San Francisco, CA`  
-   Excellent networking opportunity for founders.
+   Excellent for networking with Stripe leadership and founders.
 
 
-2. **Marlowe | AI + Data for Science with Mohsen Bayati** — **[Sign up ->](https://marlowe-research.stanford.edu/events/ai4science/)**  
-   `Wed, Nov 11 at 8:30 AM | Stanford, CA`  
-   Academic seminar on AI for science.
-
-
-3. **We Make Noise x MONO Opening Party and Fundraiser!** — **[Sign up ->](https://luma.com/v77l4llj)**  
+4. **We Make Noise x MONO Opening Party and Fundraiser!** — **[Sign up ->](https://luma.com/v77l4llj)**  
    `Thu, Nov 12 at 7:00 PM | San Francisco, CA`  
-   Social event with a charitable component.
+   Social event with a strong community focus.
 
 
-4. **CNDS Seminar - Daniel Wurgaft** — **[Sign up ->](https://events.stanford.edu/event/cnds-seminar-daniel-wurgaft)**  
-   `Mon, Nov 9 at 8:00 AM | Stanford, CA`  
-   Specialized seminar on neural data science.
-
-
-5. **Zelda Fans of SF Gathering** — **[Sign up ->](https://luma.com/2xggw0zd)**  
-   `Sun, Nov 8 at 4:30 PM | San Francisco, CA`  
-   Casual social event for community building.
+5. **Greptile Outpost at Sohn** — **[Sign up ->](https://luma.com/greptile-tgrv)**  
+   `Sat, Nov 14 at 9:00 AM | San Francisco, CA`  
+   Networking with the Greptile team and community.
 
 
 ---
