@@ -2,134 +2,134 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-10-21 20:26:40`.
+Updated: `2026-10-25 19:26:22`.
 
 ## Top Picks for March
 
-<p>&nbsp;&nbsp;⭐⭐⭐ <strong>AIE Code Summit 2026 Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/e/aie-code-2026-hackathon?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
+<p>&nbsp;&nbsp;⭐⭐⭐ <strong>Confronting Our AI Future: Hope, Fear, and the Choices Ahead</strong> — <strong><a href="https://hai.stanford.edu/events/confronting-our-ai-future-hope-fear-and-the-choices-ahead">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Oct 28 at 9:00 AM | Stanford, CA</code></p>
+
+<p>&nbsp;&nbsp;⭐⭐ <strong>AIE Code Summit 2026 Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/e/aie-code-2026-hackathon?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured">Sign up -></a></strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, Nov 7 at 9:00 AM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐⭐ <strong>BoxWorks Dev Summit 2026</strong> — <strong><a href="https://luma.com/box-dev-summit-2026?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Nov 5 at 8:00 AM | San Francisco, CA</code></p>
-
-<p>&nbsp;&nbsp;⭐ <strong>Gemini 4 Argon SF Hackathon</strong> — <strong><a href="https://cerebralvalley.ai/e/gemini-4-argon-sf?utm_source=cv-events-featured&utm_medium=cerebralvalley">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sun, Oct 25 at 9:00 AM | San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐ <strong>PortCon 2026 | The AI Software Factory Summit</strong> — <strong><a href="https://portcon.port.io/?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, Nov 17 at 9:00 AM | Shack15, San Francisco</code></p>
 
 
 ---
 
 ## Week 1 — Oct 26 to Nov 1
 
-1. **Code Engineering: From Coding Agents to Software Factories** — **[Sign up ->](https://luma.com/cico2dxy?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
+1. **Code Engineering: From Coding Agents to Software Factories** — **[Sign up ->](https://luma.com/cico2dxy?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
    `Tue, Oct 27 at 6:00 PM | San Francisco, CA`  
-   Deep dive into agentic software engineering with leaders from LangChain and Factory.
+   High-signal technical talk on agentic systems with leaders from LangChain and Warp.
 
 
 2. **Confronting Our AI Future: Hope, Fear, and the Choices Ahead** — **[Sign up ->](https://hai.stanford.edu/events/confronting-our-ai-future-hope-fear-and-the-choices-ahead)**  
    `Wed, Oct 28 at 9:00 AM | Stanford, CA`  
-   High-level conference on AI's societal impact, great for networking with policy and research thinkers.
+   Major conference on AI's future; essential for networking with high-level thinkers.
 
 
-3. **Marlowe | AI + Data for Science with Dan Yamins** — **[Sign up ->](https://hai.stanford.edu/events/marlowe-ai-data-for-science-with-dan-yamins-1028-430pm-at-coda-e160)**  
-   `Wed, Oct 28 at 4:30 PM | CoDa E160, Stanford`  
-   Academic seminar on AI for science, attracting top researchers.
+3. **GitHub Universe 2026** — **[Sign up ->](https://luma.com/xdr8hepp)**  
+   `Wed, Oct 28 at 7:30 AM | San Francisco, CA`  
+   Major industry event for developers and AI builders.
 
 
-4. **Daniel Rock | The Free Hypothesis: AI and Shifted Bottlenecks in Science** — **[Sign up ->](https://hai.stanford.edu/events/neil-thompson-forecasting-ais-impact-on-human-expertise-and-the-future-of-work-1)**  
-   `Mon, Oct 26 at 12:00 PM | Stanford, CA`  
-   Research-heavy talk on AI's impact on scientific productivity.
+4. **Agentic Infrastructure Stack Summit** — **[Sign up ->](https://luma.com/69r7rj77)**  
+   `Wed, Oct 28 at 9:00 AM | San Francisco, CA`  
+   Focused summit on the infrastructure layer for AI agents.
 
 
-5. **2026 SC2 Student Conference** — **[Sign up ->](https://hai.stanford.edu/events/2026-sc2-student-conference)**  
-   `Fri, Nov 6 at 8:30 AM | Stanford, CA`  
-   Student-focused conference for networking with the next generation of data scientists.
+5. **Scaling Intelligence Modal x Gray Area Commissions OPENING NIGHT** — **[Sign up ->](https://luma.com/5j93bc4c)**  
+   `Wed, Oct 28 at 7:00 PM | San Francisco, CA`  
+   High-signal cultural and technical event at the intersection of art and AI.
 
 
 ---
 
 ## Week 2 — Nov 2 to Nov 8
 
-1. **AIE Code Summit 2026 Hackathon** — **[Sign up ->](https://cerebralvalley.ai/e/aie-code-2026-hackathon?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
+1. **AIE Code Summit 2026 Hackathon** — **[Sign up ->](https://cerebralvalley.ai/e/aie-code-2026-hackathon?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
    `Sat, Nov 7 at 9:00 AM | San Francisco, CA`  
-   Premier hackathon for AI engineers with major industry partners.
+   Top-tier hackathon for AI engineers.
 
 
-2. **BoxWorks Dev Summit 2026** — **[Sign up ->](https://luma.com/box-dev-summit-2026?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
+2. **BoxWorks Dev Summit 2026** — **[Sign up ->](https://luma.com/box-dev-summit-2026?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
    `Thu, Nov 5 at 8:00 AM | San Francisco, CA`  
-   High-profile summit with top tech CEOs; excellent for high-level networking.
+   High-profile speakers including NVIDIA and OpenAI experts.
 
 
-3. **Data Outpost** — **[Sign up ->](https://www.dataoutpost.ai/?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Wed, Nov 4 at 8:30 AM | San Francisco, CA`  
+3. **Data Outpost** — **[Sign up ->](https://opensource.posit.co/events/data-outpost-2026?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
+   `Wed, Nov 4 at 8:30 AM | San Francisco`  
    Deep dive into AI-driven data workflows with industry leaders.
 
 
-4. **Elastic{ON} AI San Francisco** — **[Sign up ->](https://www.elastic.co/events/elasticon/san-francisco-ai?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
-   `Wed, Nov 4 at 9:00 AM | SHACK15`  
-   Technical networking event focused on real-time AI agents.
-
-
-5. **Even Day SF: Build for the Glasses of the Future** — **[Sign up ->](https://luma.com/jvcxz1he?utm_source=cv-events-featured&utm_medium=cerebralvalley)**  
+4. **Even Day SF: Build for the Glasses of the Future** — **[Sign up ->](https://luma.com/jvcxz1he?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
    `Thu, Nov 5 at 6:00 PM | San Francisco, CA`  
-   Niche hardware/SDK event for developers interested in smart glasses.
+   Hands-on demo and SDK deep dive for emerging hardware platforms.
+
+
+5. **Elastic{ON} AI San Francisco** — **[Sign up ->](https://www.elastic.co/events/elasticon/san-francisco-ai?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
+   `Wed, Nov 4 at 9:00 AM | SHACK15`  
+   Practical AI agent use cases and networking.
 
 
 ---
 
 ## Week 3 — Nov 9 to Nov 15
 
-1. **Center for Decoding the Universe Fall Forum** — **[Sign up ->](https://hai.stanford.edu/events/center-for-decoding-the-universe-fall-forum)**  
-   `Mon, Nov 9 at 12:00 PM | Stanford, CA`  
-   High-level forum for cutting-edge research and networking.
-
-
-2. **Marlowe | AI + Data for Science with Mohsen Bayati** — **[Sign up ->](https://hai.stanford.edu/events/marlowe-ai-data-for-science-with-mohsen-bayati-1111-430pm-at-coda-e160)**  
-   `Wed, Nov 11 at 4:30 PM | CoDa E160, Stanford`  
-   Academic seminar series focused on AI and data science.
-
-
-3. **Fireside Chat with Tanay Kothari, Wispr Flow** — **[Sign up ->](https://luma.com/tanay-kothari-spc)**  
-   `Thu, Nov 12 at 3:00 PM | San Francisco, California`  
-   Intimate fireside chat with a founder, great for learning and networking.
-
-
-4. **Greptile Outpost at Sohn** — **[Sign up ->](https://luma.com/greptile-tgrv)**  
+1. **Greptile Outpost at Sohn** — **[Sign up ->](https://luma.com/greptile-tgrv)**  
    `Sat, Nov 14 at 9:00 AM | San Francisco, CA`  
-   Networking event with a fast-growing AI agent startup.
+   High-signal networking event for AI agent developers.
 
 
-5. **CNDS Seminar - Daniel Wurgaft** — **[Sign up ->](https://hai.stanford.edu/events/cnds-seminar-daniel-wurgaft)**  
-   `Mon, Nov 9 at 4:00 PM | Stanford, CA`  
-   Specialized seminar on neural data science.
+2. **DNAForge & MTC Berkeley: AI Biology Hackathon** — **[Sign up ->](https://luma.com/xdzhu4tn)**  
+   `Sat, Nov 14 at 9:00 AM | Berkeley, CA`  
+   Niche, high-potential intersection of AI and biotech.
+
+
+3. **Center for Decoding the Universe Fall Forum** — **[Sign up ->](https://hai.stanford.edu/events/center-for-decoding-the-universe-fall-forum)**  
+   `Mon, Nov 9 at 12:00 PM | Stanford, CA`  
+   Academic forum on cutting-edge neural data science.
+
+
+4. **Marlowe | AI + Data for Science with Mohsen Bayati** — **[Sign up ->](https://marlowe-research.stanford.edu/events/ai4science/)**  
+   `Wed, Nov 11 at 4:30 PM | Stanford, CA`  
+   Technical seminar on AI for science.
+
+
+5. **AI100 | AI Goes Mainstream** — **[Sign up ->](https://hai.stanford.edu/events/hai-seminar-the-ai-100)**  
+   `Wed, Nov 18 at 12:00 PM | Stanford, CA`  
+   Insightful talk on the scaling era of generative AI.
 
 
 ---
 
 ## Week 4 — Nov 16 to Nov 22
 
-1. **Backprop Summit** — **[Sign up ->](https://luma.com/backprop)**  
+1. **PortCon 2026 | The AI Software Factory Summit** — **[Sign up ->](https://portcon.port.io/?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
+   `Tue, Nov 17 at 9:00 AM | Shack15, San Francisco`  
+   Summit on AI Software Factories with top-tier industry speakers.
+
+
+2. **Backprop Summit** — **[Sign up ->](https://luma.com/backprop)**  
    `Tue, Nov 17 at 9:00 AM | San Francisco, CA`  
-   Technical summit focused on AI infrastructure and adoption.
+   Technical summit for high-performance AI teams.
 
 
-2. **AI100 | AI Goes Mainstream: The Scaling Era** — **[Sign up ->](https://hai.stanford.edu/events/hai-seminar-the-ai-100)**  
-   `Wed, Nov 18 at 12:00 PM | Stanford, CA`  
-   Major report release and seminar on the future of generative AI.
+3. **Marlowe | AI + Data for Science with Andreas Tolias** — **[Sign up ->](https://marlowe-research.stanford.edu/events/ai4science/)**  
+   `Wed, Nov 18 at 4:30 PM | Stanford, CA`  
+   Technical seminar on AI for science.
 
 
-3. **Marlowe | AI + Data for Science with Andreas Tolias** — **[Sign up ->](https://hai.stanford.edu/events/marlowe-ai-data-for-science-with-andreas-tolias-1118-430pm-at-coda-e160)**  
-   `Wed, Nov 18 at 4:30 PM | CoDa E160, Stanford`  
-   High-level academic seminar on AI research.
+4. **The Commons Problem - Playtest 3** — **[Sign up ->](https://luma.com/b9n3leog)**  
+   `Sat, Nov 21 at 1:00 PM | San Francisco, CA`  
+   Interactive session on AI safety and game theory.
 
 
-4. **Founders You Should Know Startup Showcase** — **[Sign up ->](https://luma.com/1ah4ggmo)**  
+5. **Founders You Should Know Startup Showcase** — **[Sign up ->](https://luma.com/1ah4ggmo)**  
    `Wed, Nov 18 at 5:30 PM | San Francisco, CA`  
-   Startup showcase event for networking with founders.
-
-
-5. **Best Move Club: Chess Community Event Series** — **[Sign up ->](https://luma.com/uq9xqfaf)**  
-   `Wed, Nov 18 at 6:00 PM | San Francisco, CA`  
-   Social event for networking outside of pure tech.
+   Networking event to meet ambitious early-stage founders.
 
 
 ---
