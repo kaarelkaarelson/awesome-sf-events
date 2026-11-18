@@ -2,134 +2,134 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-11-15 21:27:38`.
+Updated: `2026-11-18 23:15:18`.
 
 ## Top Picks for March
 
 <p>&nbsp;&nbsp;⭐⭐⭐ <strong>AI and the New Abundance and Scarcity, with Mustafa Suleyman, Sarah Guo and Aaron Bastani</strong> — <strong><a href="https://luma.com/d1kj9otd?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured">Sign up -></a></strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Nov 18 at 8:00 PM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐⭐ <strong>QCon 2026: Senior Software Engineering Conference</strong> — <strong><a href="https://qconsf.com/?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Mon, Nov 16 at 9:00 AM | Hyatt Regency</code></p>
+<p>&nbsp;&nbsp;⭐⭐ <strong>Speech to Ship Hackathon: Speak It, Build It, Ship It</strong> — <strong><a href="https://luma.com/1netrne6?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Fri, Nov 20 at 9:00 AM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐ <strong>Builder Night San Francisco | n8n x Vercel x Arize AI</strong> — <strong><a href="https://luma.com/0qn71c42?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, Nov 17 at 5:00 PM | San Francisco, CA</code></p>
-
-
----
-
-## Week 1 — Nov 16 to Nov 22
-
-1. **AI and the New Abundance and Scarcity** — **[Sign up ->](https://luma.com/d1kj9otd?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
-   `Wed, Nov 18 at 8:00 PM | San Francisco, CA`  
-   Top-tier industry leaders discussing AI's impact on society.
-
-
-2. **QCon 2026: Senior Software Engineering Conference** — **[Sign up ->](https://qconsf.com/?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
-   `Mon, Nov 16 at 9:00 AM | Hyatt Regency`  
-   Essential for senior tech professionals focusing on AI production.
-
-
-3. **Builder Night San Francisco | n8n x Vercel x Arize AI** — **[Sign up ->](https://luma.com/0qn71c42?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
-   `Tue, Nov 17 at 5:00 PM | San Francisco, CA`  
-   High-signal event for developers building AI agents.
-
-
-4. **PortCon 2026 | The AI Software Factory Summit** — **[Sign up ->](https://portcon.port.io/?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
-   `Tue, Nov 17 at 9:00 AM | SHACK15`  
-   Technical deep dive into scaling AI software factories.
-
-
-5. **2026 Super Demo Day** — **[Sign up ->](https://luma.com/2a7wm1zs?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=featured)**  
-   `Mon, Nov 16 at 9:30 AM | San Francisco, CA`  
-   Showcase of 20 standout startups selected from 500 applicants.
+<p>&nbsp;&nbsp;⭐ <strong>Agentic + AI Night: AI Agents Across the App Stack</strong> — <strong><a href="https://luma.com/Agentic_AI_Night-11-19?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Thu, Nov 19 at 4:00 PM | San Francisco, CA</code></p>
 
 
 ---
 
-## Week 2 — Nov 23 to Nov 29
+## Week 1 — Nov 23 to Nov 29
 
-1. **Durable AI Meetup (November Edition)** — **[Sign up ->](https://luma.com/durable-ai-november)**  
+1. **Recursive Self Improvement Hack: Autonomous Agent Businesses** — **[Sign up ->](https://luma.com/ktv3iwd9)**  
+   `Sun, Nov 22 at 10:00 AM | San Francisco, CA`  
+   High-signal hackathon focused on autonomous agents, attracting serious builders.
+
+
+2. **Durable AI Meetup (November Edition)** — **[Sign up ->](https://luma.com/durable-ai-november)**  
    `Mon, Nov 23 at 5:30 PM | San Francisco, CA`  
-   Focus on reliable and durable AI systems.
+   Focus on reliable AI systems, attracting high-quality engineering talent.
 
 
-2. **SF Non-Slop Hackathon** — **[Sign up ->](https://luma.com/32d8mqid)**  
+3. **Degrees of Freedom: Embodied AI Builders Night @ Mission Robotics** — **[Sign up ->](https://luma.com/mission-u38j)**  
+   `Mon, Nov 23 at 6:00 PM | San Francisco, CA`  
+   Niche, high-signal event for robotics and embodied AI builders.
+
+
+4. **SF Non-Slop Hackathon | Pangram x Kino x Capy x Paper** — **[Sign up ->](https://luma.com/32d8mqid)**  
    `Tue, Nov 24 at 5:00 PM | San Francisco, CA`  
-   Hackathon focused on high-quality AI output.
+   Focused hackathon on high-quality AI output, attracting serious developers.
 
 
-3. **ITCH - Businesses share what needs to be built (Waste Industry)** — **[Sign up ->](https://luma.com/qby4olpj)**  
-   `Tue, Nov 24 at 6:00 PM | San Francisco, CA`  
-   Industry-specific problem solving for builders.
-
-
-4. **Let's talk about Recursive Self-Improvement** — **[Sign up ->](https://luma.com/aisafety-4phl)**  
-   `Tue, Nov 24 at 6:30 PM | San Francisco, CA`  
-   Deep dive into a critical topic in AI safety.
-
-
-5. **Friendsgiving Birthday Bash** — **[Sign up ->](https://luma.com/oh821d2a)**  
-   `Fri, Nov 27 at 6:00 PM | Hillsborough, CA`  
-   Social networking opportunity for community building.
+5. **Founders Running Club: SF** — **[Sign up ->](https://luma.com/6d3oeeae)**  
+   `Sat, Nov 21 at 9:30 AM | San Francisco, CA`  
+   Great social activity for networking with founders and operators in a casual setting.
 
 
 ---
 
-## Week 3 — Nov 30 to Dec 6
+## Week 2 — Nov 30 to Dec 6
 
-1. **Hardware Fireside Chat @ Flux** — **[Sign up ->](https://luma.com/lx81wh0i)**  
+1. **Richard Socher | The Eureka Machine: Why AI is the Key to Unlocking a New Era of Scientific Discoveries** — **[Sign up ->](https://hai.stanford.edu/events/richard-socher-the-eureka-machine-why-ai-is-the-key-to-unlocking-a-new-era-of-scientific-discoveries)**  
+   `Mon, Nov 30 at 12:00 PM | Stanford, CA`  
+   Top-tier academic/industry speaker on the future of AI research.
+
+
+2. **Hardware Fireside Chat @ Flux | Make SF Better with Water, Energy, Waste Treatment, and Infra** — **[Sign up ->](https://luma.com/lx81wh0i)**  
    `Wed, Dec 2 at 6:30 PM | San Francisco, CA`  
-   Focus on infrastructure and hardware innovation.
+   High-signal hardware event for deep tech founders and investors.
 
 
-2. **Blueprint II Demo Day** — **[Sign up ->](https://luma.com/finc-demoday)**  
+3. **Blueprint II Demo Day** — **[Sign up ->](https://luma.com/finc-demoday)**  
    `Thu, Dec 3 at 12:30 PM | San Francisco, CA`  
-   Showcase of ambitious startups.
+   Demo day for high-ambition founders, great for networking with investors.
 
 
-3. **Curated VC x Founder Mixer** — **[Sign up ->](https://luma.com/vcmixer2)**  
-   `Fri, Dec 4 at 5:00 PM | San Francisco, CA`  
-   High-signal networking for founders and investors.
+4. **San Francisco | Claude Community x Release Before Ready** — **[Sign up ->](https://luma.com/clauderbr)**  
+   `Sat, Dec 5 at 9:00 AM | San Francisco, CA`  
+   Community-led event for Claude builders, good for peer networking.
 
 
-4. **Book Swap + Movie Night** — **[Sign up ->](https://luma.com/t0cgbdsk)**  
-   `Fri, Dec 4 at 6:00 PM | San Francisco, CA`  
-   Community social event.
-
-
-5. **Omarchy SF** — **[Sign up ->](https://luma.com/ejid15jm)**  
+5. **Batter Up San Francisco!** — **[Sign up ->](https://luma.com/fczznfvg)**  
    `Wed, Dec 2 at 5:00 PM | San Francisco, CA`  
-   Community gathering.
+   Networking event hosted by Hustle Fund, good for meeting early-stage investors.
 
 
 ---
 
-## Week 4 — Dec 7 to Dec 13
+## Week 3 — Dec 7 to Dec 13
 
-1. **The Great Business Bake Off: an AI Agent Hackathon** — **[Sign up ->](https://luma.com/bakeoff)**  
-   `Fri, Dec 11 at 1:00 PM | San Francisco, CA`  
-   High-intensity hackathon for AI agent builders.
-
-
-2. **WorkOS Agent Night - Holiday Special** — **[Sign up ->](https://luma.com/agent-night-2026)**  
+1. **WorkOS Agent Night - Holiday Special** — **[Sign up ->](https://luma.com/agent-night-2026)**  
    `Wed, Dec 9 at 5:00 PM | San Francisco, CA`  
-   Large-scale community event for agent builders.
+   Major event for agent builders, high networking potential.
 
 
-3. **Daytona AI Builders - SF** — **[Sign up ->](https://luma.com/ai-builders-sf-dec)**  
-   `Tue, Dec 8 at 5:30 PM | San Francisco, CA`  
-   Networking for AI builders.
+2. **The Great Business Bake Off: an AI Agent Hackathon** — **[Sign up ->](https://luma.com/bakeoff)**  
+   `Fri, Dec 11 at 1:00 PM | San Francisco, CA`  
+   High-signal hackathon with strong VC backing.
 
 
-4. **140th SF Hardware Meetup | Holiday Party** — **[Sign up ->](https://luma.com/tggaz0h9)**  
+3. **140th SF Hardware Meetup | Holiday Party @ Studio 45** — **[Sign up ->](https://luma.com/tggaz0h9)**  
    `Thu, Dec 10 at 6:30 PM | San Francisco, CA`  
-   Long-standing community event for hardware builders.
+   Long-running hardware community event, excellent for networking.
 
 
-5. **Artist Talk: Mario Klingemann** — **[Sign up ->](https://luma.com/node-Botto)**  
-   `Sun, Dec 13 at 12:00 PM | Palo Alto, CA`  
-   Intersection of art and AI.
+4. **AI x Bio Pitch Contest** — **[Sign up ->](https://luma.com/dec9thaixbiopitch)**  
+   `Wed, Dec 9 at 5:30 PM | San Francisco, CA`  
+   Niche pitch contest at the intersection of AI and Bio.
+
+
+5. **GTM Series #05: Jason Lemkin, SaaStr AI** — **[Sign up ->](https://luma.com/gtm-series-jason-lemkin)**  
+   `Tue, Dec 8 at 6:00 PM | San Francisco, CA`  
+   High-profile speaker on GTM strategy for AI startups.
+
+
+---
+
+## Week 4 — Dec 14 to Dec 20
+
+1. **Holidaze Market & Light Up the Night Party!** — **[Sign up ->](https://luma.com/kygbsxgx)**  
+   `Sun, Dec 13 at 4:00 PM | San Francisco, CA`  
+   Large community event for SF builders and artists, great for social networking.
+
+
+2. **Banff Mountain Film Festival World Tour - San Francisco** — **[Sign up ->](https://luma.com/banff)**  
+   `Mon, Dec 14 at 5:00 PM | San Francisco, CA`  
+   High-quality cultural event, good for meeting people outside of pure tech.
+
+
+3. **Maum Market SF** — **[Sign up ->](https://luma.com/1w0kw4eo)**  
+   `Sun, Dec 20 at 11:00 AM | San Francisco, California`  
+   Social market event, good for casual networking.
+
+
+4. **AI Book Club: An Illustrated Guide to AI Agents** — **[Sign up ->](https://luma.com/ols3fqbu)**  
+   `Tue, Dec 22 at 1:00 PM | Remote`  
+   Educational session on AI agents, good for learning.
+
+
+5. **Build a Better AI Homelab with Flyte** — **[Sign up ->](https://luma.com/wy08j2yx)**  
+   `Wed, Dec 16 at 12:00 PM | Remote`  
+   Technical workshop on AI infrastructure.
 
 
 ---
