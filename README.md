@@ -2,134 +2,134 @@
 
 High signal weekly picks for SF Bay Area builders. Weekly lists are ranked by quality, not chronologically.
 
-Updated: `2026-11-22 22:17:01`.
+Updated: `2026-11-26 00:49:17`.
 
 ## Top Picks for March
 
-<p>&nbsp;&nbsp;⭐⭐⭐ <strong>Physical AI Hack</strong> — <strong><a href="https://partiful.com/e/OaqJAf7UjKt3nBmaZg6C?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sat, Nov 28 at 9:30 AM | San Francisco, CA</code></p>
+<p>&nbsp;&nbsp;⭐⭐⭐ <strong>NeurIPS 2026</strong> — <strong><a href="https://neurips.cc/Conferences/2026?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, Dec 8 at 10:00 PM | NeurIPS Conference Venue</code></p>
 
-<p>&nbsp;&nbsp;⭐⭐ <strong>IEEE Humanoids 2026</strong> — <strong><a href="https://luma.com/qxaks6zv?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Sun, Dec 6 at 12:00 PM | Santa Clara Convention Center</code></p>
+<p>&nbsp;&nbsp;⭐⭐ <strong>Physical AI Founder Funder</strong> — <strong><a href="https://luma.com/houseof-voa4?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Mon, Dec 7 at 5:00 PM | San Francisco, CA</code></p>
 
-<p>&nbsp;&nbsp;⭐ <strong>NeurIPS 2026</strong> — <strong><a href="https://neurips.cc/Conferences/2026?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed">Sign up -></a></strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Wed, Dec 9 at 6:00 AM | NeurIPS Conference Venue</code></p>
-
-
----
-
-## Week 1 — Nov 23 to Nov 29
-
-1. **Physical AI Hack** — **[Sign up ->](https://partiful.com/e/OaqJAf7UjKt3nBmaZg6C?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Sat, Nov 28 at 9:30 AM | San Francisco, CA`  
-   DeepMind-backed robotics hackathon with high-quality technical peers.
-
-
-2. **Marvelous Talks #02: Special Guest** — **[Sign up ->](https://luma.com/mt2?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Tue, Nov 24 at 5:00 PM | Founders, Inc. | San Francisco Lab`  
-   Curated, high-signal networking with ambitious founders and investors.
-
-
-3. **Durable AI Meetup (November Edition)** — **[Sign up ->](https://luma.com/durable-ai-november?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Mon, Nov 23 at 5:30 PM | San Francisco, CA`  
-   Technical focus on production-scale AI agents with industry experts.
-
-
-4. **Agent Night Out: Making Agents Worth It in Production** — **[Sign up ->](https://ontown.app/e/je3qqbkj-agent-night-out-making-agents-worth-it-in-production?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Mon, Nov 23 at 6:00 PM | House of AI`  
-   Focused discussion on long-running agents with open-weights model insights.
-
-
-5. **Founder Friendsgiving Dinner** — **[Sign up ->](https://luma.com/sprinto-friendsgiving?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Mon, Nov 23 at 5:30 PM | San Francisco, CA`  
-   Intimate setting for pre-seed/seed founders to share candid lessons.
+<p>&nbsp;&nbsp;⭐ <strong>Agentic AI Year in Review</strong> — <strong><a href="https://luma.com/veyokv1b?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed">Sign up -></a></strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>Tue, Dec 8 at 5:00 PM | San Francisco, CA</code></p>
 
 
 ---
 
-## Week 2 — Nov 30 to Dec 6
+## Week 1 — Nov 30 to Dec 6
 
-1. **IEEE Humanoids 2026** — **[Sign up ->](https://luma.com/qxaks6zv?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Sun, Dec 6 at 12:00 PM | Santa Clara Convention Center`  
-   World-class robotics event with top-tier industry keynotes.
-
-
-2. **AI Tinkerers San Francisco: Agent Infrastructure Night** — **[Sign up ->](https://sf.aitinkerers.org/p/ai-tinkerers-san-francisco-agent-infrastructure-night?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Thu, Dec 3 at 6:00 PM | Omnara HQ`  
-   Deep technical dive into agent infrastructure with high-quality engineering peers.
+1. **Deep Tech Founders' Social | MFV Partners x Rho** — **[Sign up ->](https://luma.com/r9nrx01m?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+   `Mon, Nov 30 at 9:30 AM | San Francisco, CA`  
+   High-quality networking for deep tech founders in an intimate setting.
 
 
-3. **Blueprint II Demo Day** — **[Sign up ->](https://luma.com/finc-demoday?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Thu, Dec 3 at 12:30 PM | San Francisco, CA`  
-   Showcase of 30+ teams building in robotics and AI after a 10-week sprint.
+2. **How to train LLMs to beat frontier models** — **[Sign up ->](https://luma.com/skwlv4im?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+   `Tue, Dec 1 at 10:00 AM | AWS Builder Loft`  
+   Technical workshop on fine-tuning models for specific tasks, highly relevant for AI builders.
 
 
-4. **Claude Community x Release Before Ready** — **[Sign up ->](https://luma.com/clauderbr?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Sat, Dec 5 at 9:00 AM | San Francisco, CA`  
-   Hands-on build day with Claude's latest agent tools.
+3. **AI Infrastructure Night** — **[Sign up ->](https://luma.com/z4b3wb9d?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+   `Wed, Dec 2 at 5:00 PM | San Francisco, CA`  
+   Technical talks on production AI infrastructure from founders and engineers.
 
 
-5. **Deep Tech Founders' Social | MFV Partners x Rho** — **[Sign up ->](https://luma.com/r9nrx01m?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Mon, Nov 30 at 5:30 PM | San Francisco, CA`  
-   High-quality networking for deep tech founders.
+4. **re:Invent 2026 Watch Parties** — **[Sign up ->](https://builder.aws.com/connect/event/d7991437-cc69-389d-94e8-5162fa7f79a4?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+   `Mon, Nov 30 at 9:30 AM | AWS Builder Loft`  
+   Direct access to the latest AWS developer announcements and tools.
+
+
+5. **The Future of You: Rethinking Your Value in the Age of AI** — **[Sign up ->](https://luma.com/LightDAONovember?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+   `Mon, Nov 30 at 6:00 PM | San Francisco, California`  
+   Strategic discussion on the future of work and human value in the AI era.
 
 
 ---
 
-## Week 3 — Dec 7 to Dec 13
+## Week 2 — Dec 7 to Dec 13
 
 1. **NeurIPS 2026** — **[Sign up ->](https://neurips.cc/Conferences/2026?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Wed, Dec 9 at 6:00 AM | NeurIPS Conference Venue`  
-   The definitive global conference for AI research.
+   `Tue, Dec 8 at 10:00 PM | NeurIPS Conference Venue`  
+   The most important AI research conference of the year.
 
 
 2. **Physical AI Founder Funder** — **[Sign up ->](https://luma.com/houseof-voa4?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
    `Mon, Dec 7 at 5:00 PM | San Francisco, CA`  
-   Focused networking between technical founders and active investors in physical AI.
+   Targeted networking for physical AI and robotics founders.
 
 
-3. **Llama Lounge 28: The AI Startup Event Series** — **[Sign up ->](https://luma.com/llamalounge28?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Wed, Dec 9 at 5:00 PM | San Francisco, CA`  
-   High-visibility pitch event for AI startups emceed by Product Hunt CEO.
+3. **Agentic AI Year in Review** — **[Sign up ->](https://luma.com/veyokv1b?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+   `Tue, Dec 8 at 5:00 PM | San Francisco, CA`  
+   Expert panel on agentic AI trends and predictions.
 
 
-4. **Agent Builder Demo Night** — **[Sign up ->](https://luma.com/jrphacta?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Thu, Dec 10 at 5:00 PM | San Francisco, CA`  
-   Showcase of early-stage agent founders with high-quality judging.
+4. **State of Models by OpenRouter** — **[Sign up ->](https://luma.com/openro-3gcd?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+   `Tue, Dec 8 at 5:30 PM | San Francisco, CA`  
+   Data-driven insights on AI model adoption trends.
 
 
-5. **Santas Agenthon: Build Agents, Save Christmas** — **[Sign up ->](https://luma.com/a0qk31bb?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Sun, Dec 13 at 10:00 AM | San Francisco, CA`  
-   Large-scale agent building event with significant prizes and mentorship.
+5. **Agent Wars** — **[Sign up ->](https://luma.com/hz1hopu7?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+   `Wed, Dec 9 at 7:00 PM | San Francisco, CA`  
+   Live performance testing of consumer AI agents.
 
 
 ---
 
-## Week 4 — Dec 14 to Dec 20
+## Week 3 — Dec 14 to Dec 20
 
 1. **Marvelous Talks #03: Special Guest** — **[Sign up ->](https://luma.com/mt3?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Thu, Dec 17 at 5:00 PM | Founders, Inc. | San Francisco Lab`  
-   Intimate, high-signal conversation with top-tier industry leaders.
+   `Thu, Dec 17 at 9:00 AM | Founders, Inc. | San Francisco Lab`  
+   Exclusive, curated conversation with high-impact founders and operators.
 
 
 2. **AI + DevTool Buyer Pitch Teardown** — **[Sign up ->](https://luma.com/h41nzd81?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
    `Thu, Dec 17 at 5:00 PM | San Francisco, CA`  
-   Direct feedback from enterprise buyers on devtool pitches.
+   Practical insight into enterprise buying cycles for AI and dev tools.
 
 
-3. **Startup Pitch & Networking** — **[Sign up ->](https://luma.com/t5g4dmtb?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+3. **Scaling Agentic AI in Drug Discovery** — **[Sign up ->](https://www.meetup.com/baybifx/events/317528641?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+   `Tue, Dec 15 at 9:00 AM | 233 East Grand Avenue`  
+   Deep dive into AI applications in high-value biotech research.
+
+
+4. **Startup Pitch & Networking** — **[Sign up ->](https://luma.com/t5g4dmtb?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
    `Wed, Dec 16 at 7:00 PM | San Francisco, CA`  
-   Structured networking with angel investors and venture scouts.
+   Structured networking with investors and operators.
 
 
-4. **The Year-End Gathering** — **[Sign up ->](https://luma.com/5k9h6jse?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Thu, Dec 17 at 5:30 PM | San Francisco, CA`  
-   Informal year-end networking with founders and family offices.
+5. **The Year-End Gathering** — **[Sign up ->](https://luma.com/5k9h6jse?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+   `Thu, Dec 17 at 9:30 AM | San Francisco, CA`  
+   Informal networking with venture capital and tech leaders.
 
 
-5. **Is There Really a Global AI Race?** — **[Sign up ->](https://www.eventbrite.com/e/tickets-2004247499223?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
-   `Tue, Dec 15 at 6:00 PM | Manny's`  
-   Thought-provoking talk on the geopolitical landscape of AI.
+---
+
+## Week 4 — Dec 21 to Dec 27
+
+1. **AI & Tech Networking Event by Ascent Valley** — **[Sign up ->](https://www.eventbrite.com/e/tickets-2004494255277?utm_source=cerebralvalley&utm_medium=referral&utm_campaign=feed)**  
+   `Wed, Dec 23 at 11:00 AM | Toy Soldier`  
+   Consistent networking opportunity for AI builders and founders.
+
+
+2. **None** — **[Sign up ->](https://cerebralvalley.ai)**  
+   `Wed, Dec 23 at 4:00 PM | N/A`  
+   Holiday period; limited high-signal events.
+
+
+3. **None** — **[Sign up ->](https://cerebralvalley.ai)**  
+   `Thu, Dec 24 at 4:00 PM | N/A`  
+   Holiday period; limited high-signal events.
+
+
+4. **None** — **[Sign up ->](https://cerebralvalley.ai)**  
+   `Fri, Dec 25 at 4:00 PM | N/A`  
+   Holiday period; limited high-signal events.
+
+
+5. **None** — **[Sign up ->](https://cerebralvalley.ai)**  
+   `Sat, Dec 26 at 4:00 PM | N/A`  
+   Holiday period; limited high-signal events.
 
 
 ---
